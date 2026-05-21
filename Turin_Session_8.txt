@@ -1,0 +1,2888 @@
+Wir haben eigentlich nur Probleme mit diesem Computerserver, den wir haben.
+Erstmal haben sie von CSL den Windows auf die falsche Festplatte installiert,
+was dafür gesorgt hat, dass das Ding langsamer war als mein letzter Windows 95-PC.
+Wir reden hier übrigens von einem 2700-Euro-Computer.
+Dann habe ich das Problem gehabt, dass das Ding nicht funktioniert hat mit Dark Souls 3,
+dass das die ganzen Crashes hatte, dann haben wir die E-Kerne ausgeschaltet,
+weil das irgendwie nicht mit Dark Souls 3 kompatibel war, blablabla.
+Jetzt hatten wir das Problem, ich habe Subnautica 2 gestartet, an meinem Geburtstag sogar,
+und das hat mir den kompletten PC weggefriest.
+Und ich dachte so, dieser Computer sollte Subnautica 2 eigentlich im Schlaf zum Laufen kriegen.
+Das ist eine richtige Rocket Science-Maschine.
+Und dann habe ich geguckt, was es sein könnte, zusammen mit Chats zusammen.
+Die sagten, guck mal, ob das vielleicht überhitzt oder so.
+Sollte nicht, aber guck mal.
+CPU lief bei 20 bis 25 Prozent, RAM bei 30.
+Und meine Temperatur lag bei 110.
+Und ich so, ja, geil.
+Also frittiert Misabnautica 2 gerade aktiv mein Mainboard.
+Das ist ja, und mein Prinzessor, das ist ja richtig geil.
+Was machen wir da? Und woran kann es denn nie liegen haben?
+Dann haben wir zwei Dinge herausgefunden.
+Der Wasserkühler, der verbaut ist, ist eigentlich am unteren Drittel
+für die Leistung, die dieser PC bringt.
+Also ist der eigentlich nicht gut genug.
+Und zweitens, er sollte aber trotzdem so laufen, dass er nicht auf 110 Grad erhitzt.
+Das heißt, da funktioniert irgendwas nicht.
+Entweder sie haben die Leitpaste nicht richtig aufgetragen,
+die Wärmepaste nicht richtig aufgetragen,
+oder sie haben irgendwie was da drin vergessen,
+oder ist nicht richtig angeschlossen, oder ist falsch angeschlossen, oder irgendwas anderes.
+Aber ich dachte mir auch, nachdem ich das gelesen hatte,
+fuck this shit, ich hatte jetzt schon so viele Probleme mit diesem Kack-PC,
+wir senden den jetzt wieder zurück.
+Ja, und jetzt ist er eingesendet und ich habe keinen Computer für die nächsten,
+was weiß ich wie viele Wochen.
+Wild.
+Fragen darf, wo hast du den bestellt?
+CSI.
+Ihr habt den ja nicht selber zusammengebaut,
+sondern extra noch dafür bezahlt, dass er zusammengebaut wird, I guess.
+Ja.
+Was sehr gut ist, weil dadurch konntest du ihn jetzt einschicken und sagen,
+ey, wenn ihr den selber zusammengebaut hättet.
+Aber ob dann die Probleme überhaupt gewesen wären, ist halt die Frage.
+Dann hätte man sich wahrscheinlich darauf erkundigt, ob das passt oder nicht,
+weil Leute aus meinem Chat haben das nachgeguckt und sagten,
+ja, also bei der Wasserkühlung steht eigentlich der Sockel,
+der für deinen Mainboard benutzt wird, nicht drin.
+Also irgendwie ist das nicht kompatibel.
+Und ich so, what?
+Ich habe einfach wieder gelötet.
+Einfach random irgendwie so zusammengeschweißt
+und dann auch noch Windows auf der falschen Festplatte installieren.
+Ich weiß nicht, was das für ein kack Praktikant war, der das gemacht hat,
+aber der kann sich da sehr schön wieder alleine lösen.
+Wir haben nämlich in 20 Monate Garantie auf das Ding.
+Das Ding ist zwei Monate alt, also macht den Scheiß.
+Ja.
+Danke nochmal an Karlerin,
+die die ganzen Sachen auch noch gemacht hat,
+also PC eingepackt und weggeschickt und sich mit den Leuten rumgeschlagen.
+Ich weiß nicht, ob Karlerin, ich höre dich gar nicht.
+Hallo.
+Ob du da auch dazugeschrieben hast, wie ich dir gesagt habe,
+dass sie auch das mit der Festplatte versaut haben,
+weil ich finde, ehrlich gesagt, das ist ein sehr nennenswertes Extra,
+was man dazuschreiten kann.
+Ich glaube, ich gucke nach.
+Gut, sehr gut.
+Weil ich finde, irgendwann ist es auch mal gut mit den Fehlern,
+die einem an einem Computer passieren können.
+Einmal so ein fuck up, okay, I guess,
+konnten wir noch mal mit Klonen auf die richtige Festplatte klären,
+was auch schon nicht sein sollte, dass man das muss, aber okay.
+Aber ein doppelter fuck up, ganz ehrlich,
+da können die mir auch den besseren Wasserkühler bezahlen
+und wenn sie das nicht machen, dann mache ich stunk.
+Da werde ich sauer,
+weil das ist deren Aufgabe, dafür zu sorgen,
+dass dieser Scheißcomputer läuft.
+Das ist richtig.
+Ja, so viel dazu.
+Ja, kann deinen Frust auf jeden Fall verstehen,
+weil man zahlt ja extra wirklich viel Geld dafür,
+besonders auch noch für den Aufbauservice,
+dass man selber eben nicht verkackt.
+Ja.
+Und dann so was.
+Boah, ich wäre auch richtig sauer, ey.
+Ich habe es dir geschrieben.
+Sehr gut, danke.
+Ich finde das sehr notwendig.
+Ich hatte mit meinem PC auch eine Sache,
+aber ich weiß nicht mehr, was das war.
+Ah, stimmt, genau.
+Die zweite Festplatte war nicht aktiviert
+und wurde mir dementsprechend nicht angezeigt.
+Aber das war eine Sache von drei Klicks.
+Also das ging.
+Das Googeln, was es ist, hat länger gedauert,
+als es wirklich zu machen.
+Ja, also ich sage mal,
+so ein Fuck-up kann passieren, bei so einem Computer aufzusetzen.
+Man ist ja auch nur ein Mensch,
+aber irgendwann ist es auch gut.
+Ja.
+Und ich musste dir tatsächlich ein Tutorial-Video anschauen,
+wie mein PC-Gehäuse aufgeht,
+weil da so ein Schutzding drin war,
+damit die Grafikkarte da nicht irgendwie wegrutscht
+oder sowas, der verschickt worden ist.
+Das war auch spannend.
+Ich glaube, da habe ich sogar Leute im Discord gehabt,
+währenddessen, als ich die ausgepackt habe,
+habe ich, glaube ich, eine halbe Stunde hier rumgeflucht,
+wie ich die scheiß PC aufkriege.
+Und dann schickt mir der Bloody einfach so,
+ich habe hier übrigens ein YouTube-Video gefunden,
+wie man das Gehäuse aufbekommt,
+und ich so, ah.
+Vielen Dank, vielen Dank.
+Erkenntnis?
+Nicht nach hinten schieben,
+die Seitenwand, sondern hochziehen.
+Ah.
+Mhm.
+Ja, muss man wissen, ne?
+Muss man wissen.
+Ja, wir werden jetzt...
+Das ist ja auch nicht mehr so intuitiv.
+Wir werden jetzt halt sehen, was dabei rumkommt,
+weil wenn wir selbst aufgeschraubt hätten
+und da geguckt hätten, weil es kann auch so was Banales sein,
+die haben einfach nur vergessen, eine Folie abzuziehen und so,
+dann wäre halt unsere Garantie ausgelaufen,
+unter Umständen,
+weil du halt selbst da rumgefuscht hast,
+und dann wollte ich jetzt...
+Ja, nee, voll.
+Das ist natürlich dumm, dass man dann, weiß ich nicht,
+wie viele Wochen den Computer nicht hat, ne, aber...
+Ja, ich hoffe, das dauert einfach nicht so lange.
+Ja.
+Und die Daumen.
+Ja, ich hoffe, meine Sachen sind danach noch drauf,
+also sonst habe ich ein Problem.
+Hm.
+Na ja, weiter im Text.
+Das wird bestimmt.
+Genau. Und für die nächsten PC-Kauf,
+wer auch immer den tätigen sollte von euch,
+Kiebel.
+Das ist der Shit. So.
+Die Seite, da habe ich bisher
+jedenhin geschickt gesagt, kauft euch eure PCs da,
+nie hatte irgendwer Probleme.
+Und die mussten teilweise auch eingeschickt werden nochmal.
+Und selbst das war kein Problem.
+Also bis zu diesem Zeitpunkt hatten wir auch mit
+CSL kein Problem gehabt, meine ich.
+Ich habe schon mal einen bei denen gekauft,
+der vorvorjährige,
+der war auch super,
+dann habe ich einen beim Megaport gekauft,
+den habe ich auch nochmal gemacht, aber die sind nicht mehr existent.
+Und, ja,
+dann bin ich wieder zu CSL, weil ich dachte,
+habe ich schon mal gehabt.
+Ich meine, es gibt natürlich irgendwie
+3000 PC-Zusammenbau
+und
+kaufen Seiten im Internet,
+aber da, ja.
+Ich meine, im Endeffekt war es vielleicht
+ja auch nur hoffentlich
+ein paar Klikan, das wäre schön, wenn die dann nicht alle
+inkompetent wären in dem Laden.
+Und die das rauskriegen, was auch immer das dann ist.
+Das wäre sehr sad,
+dass der Job ist.
+Oh, wir haben alle, wir haben alle.
+Dann
+beginnen wir,
+Fragezeichen.
+Ja, gerne.
+Aber ich werde kurz,
+weil gerade ChatGPT erwähnt worden ist,
+vielleicht noch einen kurzen Einwurf.
+Es gibt eine Berufsbezeichnung mit dem Namen
+AI Prompt Engineer. Das sind Leute, die sich
+Prompts für AI ausdenken,
+um das kurz eingeworfen zu haben.
+Ja, ja.
+It is
+known. Ich bin da ja,
+ich bin da ja drin.
+Das kommt in meiner Arbeit vor,
+also nicht, dass ich das tue, sondern dass ich
+weiß, dass es
+sowas gibt.
+Ja, gut. Bist du nicht drin, ne?
+Bist du nicht drin? Ne, ich auf keinen
+Fall.
+Na ja, was solls.
+Ich wollte nur einmal kurz ankündigen.
+Es kann sein, dass ich heute ein bisschen
+ruhiger bin. Ich hatte einen anstrengenden Tag.
+Ich war heute schon viel unterwegs und ich habe morgen
+einen kleinen Eingriff und bin deshalb sehr
+nervös. Und jetzt, je mehr ich da
+so hinkomme, so Richtung Nacht,
+werde ich nervöser und ich merke, dass ich Bauchweh
+kriege. Deshalb, also wenn ich heute nicht so
+talkative bin, dann liegt es da dran.
+Vollkommen okay.
+Wenn du sagst,
+geh nicht mehr oder ich würde mich gern
+hinlegen oder so, sagst du Bescheid, ne?
+Was?
+Ja, das hätte ich gemacht. Danke.
+Okay.
+Dann haben wir eine Session zu
+machen.
+Ich habe jetzt Session 6
+stehen, aber ich glaube, es ist
+schon Session 6.
+Ich habe auch Session 6 da stehen.
+Meine Güte.
+Session 6.
+Wir sind das,
+was wir vorgeben zu sein.
+Daher müssen wir vorsichtig mit dem
+sein, was wir vorgeben zu sein.
+Ihr habt
+in diesem wunderschönen
+Raum, bei dieser Benefizgala,
+schon einige Leute getroffen und einige
+Dinge sind passiert.
+Zur Zeit
+ist, soweit
+ich das aufgeschrieben habe,
+Vitoria bei
+dem Vater
+von Mirabella
+und der neuen
+Person,
+die möglicherweise
+in das
+in Jufrida Biomedica
+investieren möchte.
+Mirabella, du warst
+gerade
+noch im Gespräch mit Irene.
+Noch im Gespräch mit Irene.
+Aber die ist gerade gegangen.
+Du bist frei.
+Und ich glaube, auch
+Posima ist prinzipiell frei.
+Das ist immer gut.
+Das ist so der Stand der Dinge.
+Das ist so der Stand der Dinge.
+Dann frage ich erst einmal
+rum, wer
+möchte denn etwas tun?
+Die Personen, die
+auf dieser Feier sind, die von
+Relevanz sind.
+Seht ihr auf dem Bildschirm.
+Gibt es irgendjemanden, nach dem ihr
+suchen möchtet, Gespräche
+anfangen etc.?
+Ich hätte irgendwie 20 Leute mit dem Riech reden
+gefühlt, aber meine Aufzeichnungen
+sind alle auf dem alten PT.
+Du hattest
+laut meinen Aufzeichnungen
+Wolltest du mit
+Alaric reden?
+Wolltest du mit
+dem Herrn Zangari
+reden?
+Der hier unten.
+Wolltest du mit Yui reden?
+Wolltest
+den Vater und
+die neue Frau davon abhalten, Blödsinn
+zu machen, habe ich so aufgeschrieben.
+Und Zitat
+Wolltest dem Vater die Löffel
+langziehen, wie auch immer das aussehen soll.
+Bei der Firmengeheimnisse verraten.
+Ja gut, aber
+wie sie das tun möchte in öffentlichen
+Gefilden,
+das
+müsstest du mir dann sagen.
+Dann Vitoria, was darf es sein?
+Also
+falls jemand anders noch was hat, dann
+würde ich euch erstmal den Vortritt lassen.
+Okay.
+Wenn ich das richtig in Erinnerung habe,
+war im Prinzip der Plan, dass du
+meinen Vater so lange beschäftigt hältst,
+wie ich mit der Polizei rede.
+Nachdem ich mit der Polizei geredet habe,
+habe ich dann der Reporterin ihr Handy geklaut,
+dann mit Irene geredet
+und eigentlich
+wäre ich jetzt wieder dran, mich um meinen Vater zu kümmern.
+Dementsprechend wäre das...
+Wobei ich muss halt, mein Cosima
+ohnehin neben mir steht und wir gerade Irene verabschiedet haben,
+schau ich Cosima an.
+Ihr beide steht euch nahe?
+Kann man so sagen.
+Ohne sie gäbe es mich nicht
+in der Form.
+Das heißt nicht,
+dass ihr euch nahe steht?
+Das stimmt.
+Da hast du recht.
+Aber wir
+folgen
+das gleiche Ziel
+oder
+arbeiten gemeinsam
+an derselben Sache.
+Okay.
+Wobei auch ich nicht weiß, was in ihrem Kopf vor sich geht.
+Muss ich dazu sagen.
+Ich verstehe.
+Ich weiß auch nur das, was sie durchblicken lässt.
+Und hat sie
+mal irgendwas geäußert,
+woran ihr arbeitet?
+Vielleicht keine guten Ideen?
+Nein, tatsächlich hat sie mich eher motiviert,
+weiterzumachen.
+Ja.
+Das wirkte ziemlich durch den Wind,
+um ein wenig zu untertreiben.
+Ja.
+War in Ordnung?
+Sagen wir,
+hat sie ein bisschen
+mitgenommen, was
+die Person zu ihr sagte,
+mit der sie vorher dann gesprochen hatte.
+Das muss was sehr gemeines gewesen sein.
+Ja.
+Nun, es scheint, als wären die zwei schon
+häufiger aneinandergeraten.
+Und sie macht sie wohl einfach sehr
+wütend.
+Ja.
+Okay.
+Na gut, das ist ...
+Wir kennen alle Leute, die mir nicht
+sonderlich leiden können.
+Apropos, und ich würde dich so ein bisschen
+drehen in Richtung meines Vaters und
+Vitoria.
+Du solltest meinen Vater kennenlernen.
+Ich fange an, dich in die Richtung zu schieben.
+Großartig.
+Ja.
+Bist du dir sicher?
+Auf jeden Fall.
+Bedenk nicht, was du geschafft hast.
+Und nochmal schaffen wirst.
+Mhm.
+Sollte er auf jeden Fall wissen, wer du bist.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Okay.
+Sofern du dich nicht dagegen wehrst,
+machen wir uns auf den Weg dahin.
+Ich werde mich da nicht
+zu sehr gegen wehren, nein.
+Ich muss kurz fragen,
+hat Cosima überhaupt mitbekommen,
+was mein Vater vor hat zu tun?
+Nee, ich glaube, da war ich nie dabei.
+Okay, dann wäre das so ein Ding von
+so und halbwegs.
+Übrigens, die Frau, die
+mit ihm hier ist, ist eine der neuen Investoren
+und sie möchte, er möchte
+das scheinbar heute hier bekannt machen,
+was eine unglaublich schlechte Idee ist, weshalb wir
+ihn auf jeden Fall beschäftigt halten müssen.
+Cosimas to stunt to speak
+für einen Moment.
+Er hatte darüber nachgedacht, dass das
+die Benefizveranstaltung
+wahrscheinlich nicht.
+Deswegen, wie gesagt,
+beschäftigt halten.
+Okay.
+Ja, gut.
+Wann machen wir das?
+Und ihr kommt bei den beiden
+an.
+Ich glaube,
+Cosima, wenn du noch gar nichts damit zu tun
+hattest, hast du die Frau auch noch gar nicht
+wahrgenommen?
+Nee, nicht wirklich.
+Vor dir hier siehst du also
+diese Dame hier unten,
+die
+in ihrem
+Auftreten und mit ihrer
+Kleidungswahl
+etwas heraussticht,
+aber
+nicht so, dass sie jetzt hier nicht
+erwünscht wäre. Sie hat nur einige
+Dinge an, die
+nicht diese klassischen
+Galen betrifft,
+sondern zum Beispiel eine
+Lederjacke über ihrem Kleid.
+Und sie
+würde die Hand ausstrecken
+in deine Richtung.
+Mein Name ist Celestine Del Corvo.
+Mit wem habe ich das
+Vergnügen?
+Cosima Giordano.
+Sehr freut.
+Sie schaut zwischen
+dir und Mirabella hin und her.
+Mirabella,
+warum
+möchtest du, dass wir uns
+bekannt machen?
+Cosima ist
+eine unserer Wissenschaftlerinnen.
+Das ist aber
+spannend. Was tun sie genau?
+Ich
+bin
+in der Forschung für
+Blutkrankheiten tätig und
+versuche da an
+Substituten zu arbeiten,
+um eben diese
+behandelbar
+zu machen.
+Sie hat immer noch deine Hand
+in ihrer und legt die andere
+freie Hand auf
+deinen Arm, um das Ganze
+etwas persönlicher zu machen.
+Sie machen wirklich
+wichtige Arbeit, wissen sie das?
+Danke.
+Sie nickt dir ein paar
+Mal zu und da
+dein Vater, Mirabella
+Riccardo, steht daneben,
+schaut so in die
+Runde.
+Ich hatte dir von
+Cosima erzählt, du erlässt dich.
+Ja,
+Giordano
+und ihr seht
+ihn in seinem
+Gedanken
+herumgehen
+und zu
+versuchen, die Akte zu finden,
+in der steht,
+wer du warst und was du tust.
+Ja,
+sie arbeiten
+unter Irene Weissman.
+Ganz genau.
+Ja,
+wenn ich
+und er
+schaut zu dem,
+Mirabella,
+ich habe verstanden,
+was hier vor sich geht.
+Du fandest meinen Plan nicht besonders gut,
+das heute hier zu verkünden.
+Niemand fand einen Plan besonders gut,
+das heute hier zu verkünden.
+Okay.
+Nicht besonders gut ist nicht der
+treffende Begriff.
+Ich würde eher,
+ich würde eher sagen, ein wenig
+geschmacklos.
+Und auch schädigend für
+die Benefit Gala.
+Okay,
+okay.
+Victoria,
+da brauche ich eine Etikette
+Wurf von dir.
+Mit Charisma.
+Ich will eine Etikette
+Wurf von dir. Was fällt dem eigentlich?
+Einfach einen anderen veranschätzen, so einen eigenen Schlecht
+anbinden zu wollen.
+Ist so.
+Und auch von dir, Cosima, bräuchte
+ich Etikette und Charisma.
+Oh, da bin ich ja so
+gut drin. Gar kein Problem.
+Das Problem, wenn du
+solche Sachen sagst.
+Ja,
+Charisma war das, ne?
+Mhm.
+So, warte mal, habe ich
+irgendeinen Bonus auf Social
+Roles? Lass mich das mal
+checken.
+Ich glaube nicht.
+Warte mal, ist das ein Social Role, wo ich
+meinen Bonus benutzen kann?
+Mein Beautiful Bonus eigentlich? Weil ich stehe ja direkt vor dem
+... Ja, wenn du gesehen wirst,
+kannst du das.
+Aber ich glaube,
+Cosima ist nicht
+Beautiful
+oder All-Struck oder wie auch immer
+diese
+Merits heißen.
+Also,
+mein High-Functioning
+Addict macht you add one die to any one
+Category of
+Full. Und
+meine letzte
+Futterperson
+war ja da drauf.
+So kriege ich einen Roll mehr.
+Okay.
+Das macht den Bart nicht fett.
+Wobei der Bonus wahrscheinlich durch mich wieder
+verloren gehen. Das ist alles egal.
+Vitoria hat dementsprechend
+gerollt.
+Das ist sehr gut.
+Ich rolle trotzdem und wir gucken mal,
+wie sehr er mich hasst.
+Du bekommst auf jeden
+Fall einen Blick.
+Aber
+ich muss dir vorstellen, Cosima
+steht da und hat das Bitch-Face
+des Jahrhundes. Das interessiert sie gar nicht.
+Aber zumindest
+im Gesicht nicht. Aber ihr seht,
+wenn ihr an ihr runter guckt, dass sie
+mit ihrem Daumen über den
+Ring an ihrem Finger
+immer wieder streicht und
+den so dreht.
+Autistic Behavior,
+aber okay.
+Ich,
+Vitoria, bei ihr ist es genau das
+Gegenteil. Also sie guckt ihm wirklich,
+sie guckt den Typen
+komplett von vorne,
+von oben nach unten und von unten nach oben
+wieder an und dann ist es so ein Herablass.
+Ich würde
+nicht sagen, dass es eine schlechte
+Idee hier das richtige Wort ist,
+sondern eher geschmacklos.
+Ja. Und seine Augen
+fixieren sich auch auf dich, Vitoria. Du hast
+eine sehr einnehmende
+Persönlichkeit in diesem Moment.
+Und er hebt so ein bisschen
+entwaffnet die Hände.
+Mea culpa. Ich merke
+schon, das war wohl nicht
+das Richtige. Ich dachte nur vielleicht,
+aber
+da scheine ich falsch gedacht zu haben.
+Dann...
+Hab ich das jemals erlebt?
+Nee, aber du hast
+auch selten bis vielleicht
+nie erlebt, dass jemand
+deinem Vater gegenüber so
+aufgetreten ist.
+Wie Vitoria das gerade getan hat.
+Ich hoffe, da hat jetzt
+Willpower Damage gekriegt.
+Er ist ein menschlicher
+NPC, der kriegt keine Willpower
+Damage.
+Und er schaut wieder
+zu Cosima.
+Dann lassen sie uns das doch
+hier
+nicht weiter verfolgen mit
+meiner Ankündigung.
+Und lassen sie uns
+an den Feierlichkeiten
+hier teilhaben. Vielleicht
+uns ein bisschen
+über schönere Dinge unterhalten.
+Signora Giordano, könnte ich
+vielleicht mit Ihnen etwas über die Arbeit
+sprechen?
+Natürlich.
+Und er...
+Wo wir dabei sind, was
+Mrs. Giordano oder
+Mrs. Giordano's Arbeit
+betrifft, Signor,
+könnten wir vielleicht
+darüber diskutieren, dass
+gewisse Informationen doch den
+Stakeholdern vorenthalten
+bleiben sollten?
+Sagst du das während die Dame
+daneben steht? Das ist der Punkt. Ich glaube,
+ich hätte so ab dem Moment, an dem es
+wirklich so sehr eindeutig wird von
+Okay, Vitoria ist kurz davor,
+meinen Vater zusammenzufalten, hätte ich wahrscheinlich
+Silistin so ein bisschen zur Seite.
+Und wie geht's dir so? Deine Haare sind
+heute schön.
+Es gibt natürlich auch beschäftig jetzt
+was zu besprechen. Deswegen.
+Also sie...
+Ganz ehrlich, ich habe
+kein Problem, wenn sie das hört, weil...
+Aber ich!
+Okay.
+Okay.
+Dann brauche
+ich einen Roll, den es nicht gibt,
+von dir.
+Wer ist denn dir? Du.
+Irgendeine Form
+von Ablenkung.
+Subterfuge?
+Oder Performance
+oder so? Ja, ich hatte auch Performance
+gedacht, aber Subterfuge
+ist wahrscheinlich eher so...
+eher so das.
+Und ich schätze mal,
+auf Performance hat kein Mensch
+und kein Vampir der Welt Punkte.
+Du, ich habe in meiner Gruppe
+einen Portrait Slammer Vampir, also...
+Ja, gut.
+Hier ist das ja.
+Aber hier ist das absolut korrekt, ja.
+Ja, dann...
+Genau, dann nehmen wir doch den.
+Warum bin ich nicht beautiful?
+Nevermind.
+Weil ich dich brauche!
+Holy shit!
+Es ist ein messy critical, ich habe Angst.
+Es ist ein messy critical.
+Wie viele Hangar hast du?
+Ein.
+Okay.
+Ich habe meine Willpower übrigens nicht zurückgesetzt, weil im Prinzip
+gleiche Szene. Ja.
+Korrekt.
+Das ist auch alles irgendwie
+eine Szene in diesem...
+seit der letzten Session und immer noch in dieser Session.
+Du nimmst sie
+beiseite und
+schaffst es, ein paar Schritte
+zu gehen.
+Von dem, was du bisher
+von ihr mitbekommen hast,
+scheint sie auch ein sehr
+umgänglicher Mensch zu sein.
+Jemand, der
+sozusagen
+investiert ist, wenn man
+ihn anspricht und
+deswegen ist das für dich
+jetzt kein großes Problem, sie
+beiseite zu nehmen und ein
+Gespräch anzufangen, was sie für
+relevant und wichtig hält
+oder es zumindest aussehen zu lassen.
+Also ich habe tatsächlich was, was ich hier sagen will.
+Das war nicht nur ein...
+Ich schnapp die jetzt mal und nehme die mit.
+Ja, dann ist ja noch besser.
+Silistini,
+mir ist wichtig, dass du weißt, dass
+das nichts persönliches ist. Allerdings
+ist Bekanntgeben einer neuen Investorin
+auf einer Gala, bei der Geld
+dafür gesammelt wird, dass die Firma
+wieder aufgebaut werden kann.
+Nein, nein, ich verstehe das.
+Ich verstehe das vollkommen.
+Glaub mir, Mirabella,
+es war nicht meine Entscheidung, das zu tun.
+Ich habe
+nur verstanden, dass
+sein Vater da etwas
+der breiten Masse
+seiner, seinen Erfolg
+mitteilen wollte.
+Das darf er natürlich
+auch gerne tun.
+Morgen oder so, aber nicht heute Abend.
+Natürlich, natürlich. Ich war nur
+in keiner Position, das abzuschlagen.
+Und während das passiert,
+greift
+Riccardo
+Giuffrida Cosimas Hand.
+Lassen Sie uns doch
+etwas abseits
+der anderen sprechen.
+Ich gucke zu den anderen beiden.
+Mirabella ist gerade nicht...
+Wie war gerade...
+Sorry, wie war sein Vorname?
+Riccardo.
+Okay, er benimmt sich auf den Riccardo.
+Also, falls das
+möglich ist, das ein bisschen zu retcon,
+wenn ich sehe, er geht mit der Hand
+rüber und versucht, sie anzufassen,
+würde ich so ein bisschen mit meiner Hand
+auf seine tippen und
+das unterbinden wollen,
+weil eine Lady ohne ihren
+Konzent einfach an der Hand zu packen,
+das schickt sich nicht wirklich.
+Das ist eine andere Generation, okay?
+Da ist halt auch ein Riccardo,
+I guess, aber nicht auf meiner Party.
+Ja, du hast gerade
+neun Successes gewürfelt.
+Er lässt sofort los, als du das tust
+und schaut dich an.
+Ich dachte, es sei in Ordnung,
+Gespräche zu führen.
+Das ist das aber.
+Haben Sie die Lady gefragt, ob sie angefasst werden möchte?
+Entschuldigung.
+Ich würde gerne mit Ihnen,
+Cosima,
+sprechen. Ist das in Ordnung
+für Sie?
+Sprechen ist in der Tat in Ordnung
+für mich.
+Könnten wir dieses Gespräch woanders
+führen als hier?
+Ich fühle mich so gelauscht.
+Sind die Themen, die Sie besprechen möchten,
+denn so heikel, dass wir das
+nicht hier machen können?
+Nun, es geht um die Arbeit
+bei Schufrida Biomedicas.
+In gewisser Weise heikel.
+Okay.
+Wir können in eins der
+Zimmer gehen.
+Wunderbar.
+Und er
+lässt dir den Vortritt
+und fasst dich nicht nochmal an.
+Das ist gut.
+Vitoria Beste.
+Ich nicke Vitoria zu.
+Ihr geht
+in einen
+anderen
+Raum, etwas abseits
+von diesem Hauptraum.
+Während das passiert
+und während Mirabella mit
+der Dame spricht,
+hat Vitoria
+ein neues Ziel,
+etwas Neues zu tun.
+Ich
+weiß nicht, ob
+sie den beiden nicht, also sie würde
+abwarten bis sie gegangen sind und
+dann langsam folgen und sich
+an den Rand des Raumes stellen und quasi
+lauschen.
+Das kannst du tun.
+In diesem Moment
+hörst du von der
+Eingangstür
+einen Tumult.
+Schon wieder?
+Schon wieder, aber diesmal ist es eine andere
+Art von Tumult.
+Vorher war es ein
+da werden
+Leute nicht hereingelassen, die herein wollen.
+Und diesmal ist es ein
+man könnte fast meinen, diese Benefitskala
+hätte
+Stargäste, die angekommen sind.
+Aber von denen
+wüsstest du nichts.
+Du siehst zwei Personen
+hereinkommen.
+Ein Mann und eine Frau.
+Der Mann hat seinen Arm leicht ausgestreckt,
+die Frau hat sich eingehakt.
+Und die kommen beide
+durch die Tür
+und
+so wie du das erkennen kannst,
+werden von jedem angestarrt, der da
+in der Nähe steht.
+Ich werfe dir von weitem einen Blick
+zu, wie sehen die denn aus?
+Die sehen folgendermaßen
+aus.
+Der Mann ist
+relativ hochgewachsen,
+schmal,
+hat
+ein Stoffsacko an.
+Ich dachte du sagst Stoffsacko, er hat einen Stoffsacko an.
+Er hat keinen Stoffsacko an.
+Er ist eigentlich Teil des Sack Kollektivs.
+Eine Brille,
+blonde Haare und
+ein relativ
+gemeißeltes Gesicht.
+Und die Dame neben ihm
+geht eher in die Richtung von Celestine
+und Mirabella,
+wenn sie gerade nicht hier ist.
+Sie trägt
+ein
+relativ
+durchsichtiges
+Oberteil.
+Für diese Art von Benefit
+Skala vielleicht nicht ganz geeignet.
+Du siehst eine
+stylische Brille mit
+roten Gläsern,
+schwarze Haare
+in einem Dutt zusammengebunden.
+Sie scheint
+die Aufmerksamkeit
+mehr zu genießen als er.
+Für ihn ist das vielleicht
+etwas
+unnormal, was hier gerade
+passiert.
+Sie scheint das zu kennen.
+Okay, aber mir kommen die nicht
+bekannt vor.
+Dir kommen die nicht bekannt vor.
+Ich stelle sie da hin.
+Okay.
+Ich meine,
+es sind genug Leute auf dieser Party,
+die sich mit den beiden unterhalten können und wollen.
+Ich würde sie jetzt einfach mal
+sich selbst überlassen.
+Ich habe zur Kenntnis genommen, dass sie da sind, aber
+ich würde sie jetzt nicht
+explizit ansteuern.
+Dann
+gehe ich nochmal kurz
+zu Mirabella.
+Möchtest du noch etwas mit Celestine besprechen,
+bevor du etwas anderes tust?
+Das ist das
+Wichtige, habe ich geäußert
+tatsächlich.
+Nein.
+Gleichermaßen aber auch ein
+schlechtes Gewissen, sie jetzt einfach hier stehen zu lassen.
+Das ist die Sache. Sie stände da jetzt drum.
+Relativ.
+Hier läuft jetzt auch niemand
+großartig rum. Ich hätte einfach
+Enrico einladen sollen.
+Ob der hier so
+reinpasst?
+Ich hätte mich jetzt einfach zu Celestine stellen können und sagen können,
+viel Spaß.
+Wie ich das immer tue.
+Aber, naja.
+Ich würde zumindest warten,
+bis ich
+auf Skype bekommen habe, wo sich mein Vater
+wechseln war. Ich würde wahrscheinlich
+zu der Stelle schauen, wo die eben noch waren und dann feststellen,
+da ist niemand mehr.
+Wo kommen die hin?
+Aber ja, ein bisschen Smalltalk, ein bisschen über die Firma reden.
+Okay.
+Bisschen Cosima loben,
+ohne zu sehr ins Detail zu gehen.
+Sehr gut, sehr gut.
+Dann
+Cosima.
+Du bist mit Ricardo
+Jofrida in einem
+Raum an der
+Seite dieses Hauptraumes.
+Und
+er läuft
+ein Stück
+in den Raum hinein
+und
+geht an eines
+der Fenster und schaut hinaus
+und
+lädt dich nonverbal dazu ein,
+sich neben ihn zu stellen,
+wenn du das tun möchtest.
+Ich stell mich neben ihn.
+Und er
+scheint einen
+Blick nach draußen
+zu haben, der
+nachdenklich ist, nachdenklich aussieht
+zumindest.
+Und dann nach so
+10, 15 Sekunden
+schaut er zu dir rüber.
+Ich darf Cosima
+sagen?
+Selbstverständlich.
+Cosima, wie
+gefällt es dir
+bei uns zu arbeiten?
+Das ist eine Frage,
+mit der ich nicht gerechnet hatte.
+Sehr gut, würde ich sagen.
+Womit hast du denn gerechnet?
+Nicht mit der Frage,
+wie es mir in der Firma gefällt.
+Ich bin durchaus
+traurig, dass das
+Hauptgebäude abgebrannt ist
+und ich meiner Arbeit nicht weiter
+nachgehen kann.
+Ich denke, das sind
+wir alle hier, ja.
+Du hast also
+relativ viel mit
+deiner Chefin zu tun.
+Gibt es noch andere in der Firma, mit denen du viel
+zu tun hast?
+Nicht unbedingt,
+nein.
+Ich habe auch mit meiner Chefin
+nicht allzu viel zu tun.
+Ich habe doch recht viel Freiheit,
+die ich mir hart erarbeitet habe
+und ich meinen Job einfach sehr gut mache.
+Natürlich, das
+hätte ich nie angezweifelt.
+Ich habe jedoch gerade festgestellt, dass
+meine Tochter
+mit dir anscheinend
+relativ gut
+zurechtkommt.
+Das ist wohl den Umständen des Brandes
+geschuldet. Davor hatten wir nicht sehr viel
+miteinander zu tun, allerdings
+traf ich sie,
+als ich mich auf dem Weg
+zum Labor machte
+und dann hatten wir uns darüber unterhalten.
+Ich verstehe.
+Dann kennt ihr euch
+also noch nicht so lange.
+Habt ihr schon gesprochen
+über
+die Vorkommnisse?
+Nur oberflächlich.
+Es ging darum,
+ob ich dann
+trotzdem weiterhin
+in der Firma arbeiten möchte.
+Und wie es mir damit geht,
+dass das jetzt abgebrannt ist.
+Die klassischen Fragen,
+die eine Chefin eben stellt.
+Ich verstehe.
+Das erschien mir nur gerade als...
+Meine Tochter hat nicht viele
+gute Bekannte, die
+ein...
+Wie sage ich das?
+Gerade in unserer Firma
+hat sie sich
+nie die
+Mühe gemacht,
+mit Leuten
+zu sprechen.
+Sie schien mir immer etwas außerhalb
+der ganzen Sache zu stehen.
+Ich habe die Sachen,
+habe die Sachen ja auch
+federführend übernommen.
+Von daher muss sie das nicht, aber
+es hat mich nur
+verwundert, dass sie hier zusammen
+stehen und offenbar
+miteinander sprechen, was
+wie gesagt
+nicht häufig vorkommt bei mir, Rebella.
+Ja, ich denke,
+ein so einschneidendes Erlebnis
+wie dieses...
+Lässt einen dann doch auch mal
+andere Seiten sehen
+und
+ein bisschen mehr
+in das Leben
+der Angestellten blicken.
+Besonders wenn man
+aus Zufall aufeinander trifft.
+Also haben Sie das Gefühl,
+dass Rebella
+diese klare
+Trennung zwischen
+Angestelltem und
+demjenigen, der sie
+anstellt vollzieht?
+Durchaus.
+Das Verhältnis zu ihrer Tochter
+ist rein professionell.
+Das habe ich nicht bezweifelt,
+nur...
+Die Frage klang so, als würden sie da...
+Es geht mir mehr darum,
+wie die Art und Weise ist,
+wie sie mit ihnen spricht.
+Sie hat normalerweise keinen
+offiziellen Ton.
+Ich verstehe nicht ganz.
+Ihre Art und Weise, mit Leuten zu sprechen,
+ist eher kollegial,
+freundschaftlich vielleicht
+unangebracht
+für ein Arbeitsverhältnis.
+Das hatte ich persönlich so nie empfunden.
+Das ist schön zu hören.
+Ich denke, das sind auch ein bisschen
+altertümliche Sichtweisen.
+Sicherlich, sicherlich.
+Haben Sie das Gefühl, dass...
+Lassen Sie mich die Frage anders stellen.
+Was ist Ihr...
+Ihr Bild von
+dem,
+wie ist meine Tochter...
+Ich muss Sie einmal ganz kurz unterbrechen.
+Natürlich.
+Geht es hier nur darum, dass Sie mir Fragen
+stellen oder möchten Sie auch noch irgendwelche
+Fragen stellen, die
+wirklich um meine Arbeit gehen?
+Denn ich möchte hier
+nicht das Auskunftlamm sein,
+das Ihnen Auskunft
+über Ihre Tochter gibt.
+Da können Sie sie auch einfach selber fragen.
+Das Verhältnis zwischen
+meiner Tochter und mir ist angespannt.
+Ich bin mir sehr sicher,
+dass ich nicht die
+wahrheitsgetreuen Antworten bekommen
+würde von ihr, die ich vielleicht
+von anderen bekomme.
+Und... Mit Verlaub,
+das ist nicht meine Position, da
+weiter drüber zu reden und ich würde gehen.
+Okay.
+Dann lässt du ihn...
+Da habe ich keinen Bock drauf.
+Das ist vollkommen in Ordnung.
+Er
+ist das auch nicht
+gewohnt, dass Leute einfach von ihm
+weggehen.
+Er ist das sehr gut gewohnt,
+nur nicht, dass andere Leute das an mir tun.
+Ja, gut.
+Er hat jetzt
+verstanden, warum ihr drei wohl irgendwie zusammen
+gehört.
+Ihr seid alle gegen ihn.
+Ja, das ist der Grund,
+wir sind gegen ihn und nicht gegen seine
+Art und Weise.
+Meine Güte.
+Die Selbstreflektionsfähigkeit
+besitzt er nicht.
+Du gehst
+aus dem Zimmer hinaus.
+Victoria,
+stehst du immer noch daneben?
+So in der Nähe.
+Also jetzt nicht direkt daneben, aber
+so in der Nähe. Und ich habe so
+einen Alibi-Zettler in der Hand
+und stelle mich zu der nächsten
+Gruppe. Also wenn ich merke, das Gespräch ist
+vorbei, dann stelle ich mich zu der nächsten Gruppe.
+Ich kann kein Gespräch.
+Dann kommst du raus, Cosima,
+und...
+Ich schüttle nur noch mit dem Kopf auf dem Weg nach draußen.
+Hast du deine Zielfragen?
+Mein Ziel wäre Victoria.
+Okay.
+Du siehst sie in einer kleinen Gruppe.
+Hättest du gerne,
+Victoria, dass diese kleine Gruppe
+aus bestimmten Leuten besteht? Also aus Leuten,
+die wir gerade auf dem Bildschirm sehen.
+Ich wünschte, ich könnte dir noch
+sagen, wie irgendjemand davon heißt, aber
+wie gesagt, meine Aufzeichnungen.
+Ping einfach drauf, dann sage ich dir, wie die heißen.
+Du mal anders gefragt.
+Ich stehe jetzt wahrscheinlich so in der Nähe
+von den Kunstwerken.
+Die, hatte ich so verstanden,
+sind einfach hier überall an den Wänden,
+wo sie Platz haben.
+Angehängt.
+Ja...
+Ja...
+Aber es gibt schon Ecken, wo es ein bisschen
+konzentrierter ist, würde ich sagen.
+Und die Räume sind ja natürlich auch an den Wänden.
+Also...
+Sehr, sehr gut.
+Dich wahrscheinlich irgendwo in der Nähe von Kunst.
+Also falls sich da jemand gerade irgendwas anguckt,
+dann können wir die Person nehmen, wenn nicht,
+dann ist es einfach nur eine Random-Person-Gruppe.
+Ich denke, dass wir mal wieder den
+guten
+Aldo Sangari
+nutzen können.
+Der steht
+wahrscheinlich
+erneut vor einem
+Bild, das er
+betrachtet wie jemand,
+der davon Ahnung haben könnte.
+Und er sieht, dass du dich näherst.
+Signora di Savoia.
+Es ist wirklich eine
+wundervolle Gala, die sie hier ausgerichtet haben.
+Danke, ich
+schaue das Bild an.
+Ich schaue es mir ein bisschen länger an,
+und ich gehe so zwei Schritte zurück
+und neige den Kopf so zur Seite.
+Was sehen Sie darin?
+Um ganz ehrlich zu sein,
+nicht viel.
+Ich versuche jedes dieser
+Bilder hier
+auf mich zu legen.
+Ich versuche jedes dieser Bilder hier
+auf mich wirken zu lassen
+und etwas herauszuholen,
+aber bisher
+ist mir das noch nicht häufig gelungen.
+Ich glaube, dass Mark am
+Altersunterschied zu dem Künstler liegen.
+Sie sind
+beim Item nicht alt genug.
+Das Jahr wurde von jemandem gemalt,
+der so alt ist, dass ich fürchte,
+dass er nächste Gala nicht überstehen wird.
+Er lacht.
+Signora, ich denke, ich bin
+etwas älter als ich aussehe.
+Aber Dankeschön.
+Sie sollten den italienischen
+Adel nicht unterschätzen.
+Ich habe eine Großtante, die ist 120.
+Ja, der
+italienische Adel ist
+besonders
+was das angeht.
+Sie lacht
+und schwingt
+den Sekt in ihrem Glas, dann trinken
+kann sie den ja nicht.
+Hebt ihn aber an
+ihre Lippen und tut so, als würde sie.
+Und sagt dann
+haben sie
+also haben sie einen schönen Abend.
+Kann ich das so interpretieren?
+Ich habe einen ganz
+vorzüglichen Abend.
+Ich würde gerne noch ein paar Gespräche
+führen, vielleicht das
+eine Bild
+erstehen, was mir besonders
+gut gefallen hat.
+Also hat Ihnen doch eines gefallen?
+Eines konnte meine
+Aufmerksamkeit auf sich ziehen.
+Und welches ist das gewesen?
+Er zeigt durch den Raum
+auf eine
+ein impressionistisches
+Landschafts Gemälde.
+Weiß ich aus dem Stegreif,
+von wem das ist?
+Nein.
+Okay.
+Oh ja, schön.
+Ein schönes Werk.
+Nur leider ist mir der Name des
+Künstlers entfallen.
+Das war ein
+Leo Giuffrida.
+Leo Giuffrida.
+Ich habe gelogen.
+War sehr verboten.
+Ja, falsche
+Ordnung.
+Das war ein
+Matteo Giordano.
+Immer noch dieselbe Reaktion.
+Ja, die Reaktion hat sich nicht geändert.
+Na, so was.
+Ob da irgendwelche Verwandtschaften
+bestehen?
+Wie meinen?
+Na, unsere
+Wissenschaftlerin heißt ebenfalls
+Giordano.
+Nun, das ist ein
+in ganz Italien und natürlich auch
+in Turin
+sehr weit gefächerte Name.
+Das ist wahrscheinlich richtig, aber
+man mag nicht glauben,
+wie viel Verwandtschaft man dann doch
+hat, wenn man auf die Suche geht.
+Ich denke sie besonders.
+Ja, das ist richtig.
+Und in dem Moment
+stößt Cosima hinzu,
+Cosima, du siehst
+ich weiß nicht, ob du Aldo Sangaris
+Namen schon kennst.
+Wenn ich noch nicht mit ihm gesprochen
+hatte, dann wahrscheinlich nee.
+Du hattest ihn vor dem Gemälde
+gesehen, aber ich glaube, du hast ihn nicht
+angesprochen.
+Nee, dann, dann nicht.
+Dann würde ich dazu
+kommen und guten
+Abend wünschen.
+Oh, war das Gesprächsthema?
+Signora Giordano,
+wir haben uns über das Gemälde dort
+hinten unterhalten, das
+hat vielleicht ein Namensvetter von
+Ihnen gezeichnet?
+Tatsächlich, mein Bruder, ja
+durchaus.
+Oh, was war denn das?
+Was ist denn das?
+Was ist denn das?
+Was ist denn das?
+Was ist denn das?
+Oh, was war ein Zufall?
+Sehen Sie? Ich hab's Ihnen gesagt.
+Ein wirklich
+spannender Künstler, ihr Bruder.
+Das war er, ja.
+Er nickt
+verstehend.
+Das tut mir leid.
+Mir auch.
+Mein Beileid.
+Danke.
+Was halten Sie denn von dem
+Bild meines
+Bruders, wenn das das Gesprächsthema
+war?
+Wenn ich ganz ehrlich
+sein soll, es ist vielleicht das
+einzige in diesem Raum, was
+taugt.
+Das höre ich durchaus
+gerne.
+Ich allerdings nicht.
+Ich werde es Ihnen dennoch verzeihen, weil Sie so
+charismatisch sind.
+Ja,
+ich muss mal
+was rollen.
+Blöde Frage,
+wer war Aldo nochmal?
+Und nichts.
+Ah ja, der, okay.
+Und
+die ist
+Private
+GM Roll.
+Okay.
+Du,
+bekommst
+mich
+und bekommst
+ein Lächeln zurück,
+Vitoria.
+Ich meine,
+du kannst Awareness
+Wits rollen
+und hoffen, dass du über
+eine bestimmte Anzahl an Erfolgen
+kommst.
+Das ist leider ein Nein.
+Du bekommst
+ein Lächeln zurück
+und
+du siehst, dass Aldo's Blick
+erneut
+durch den Raum geht
+und jetzt etwas von dem Bild
+abwarten.
+Ja,
+ja,
+ja, das ist sie.
+Ich wollte mich auch bei ihr
+noch vorstellen und
+ihr, na ja,
+mit ihr besprechen und
+hauptsächlich
+mit ihr
+besprechen und
+mit ihr
+besprechen und
+mit ihr
+besprechen und hoffen, dass
+alles gut wird für die Firma.
+Ich meine,
+immerhin
+ist das
+Giuffrida Biomedica das Herzstück
+von Turin gewesen, was
+die medizinische Forschung angeht
+und auch generell ein Aushängeschild
+in ganz Italien.
+Ich hoffe wirklich, dass sie
+und er dreht sich
+zu Vitoria um,
+mit dieser Gala
+großen Erfolg haben werden und es
+sehr viel
+Geld einbringen wird.
+Wenn ich mir so die Leute
+anschaue, die hier ein-
+und ausgehen, kann man
+ja nur hoffen, dass zumindest ein Teil
+der Reichtümer,
+die diese Leute sicherlich besitzen,
+sich
+später in
+ihren Taschen befindet und zum
+Wiederaufbau verwendet werden kann.
+Ich
+warte
+noch darauf, dass er
+den Satz beendet. Aber falls
+dann nichts mehr kommt...
+Das ist ein beendeter Satz.
+Okay.
+Ja, das
+hoffen wir natürlich alle.
+Ich bedanke mich für ihren
+Beitrag und
+wünsche Ihnen viel Erfolg dabei.
+Mirabella
+guten Zuspruch zu leisten. Ich denke, sie kann das
+gut machen.
+Er nickt euch beiden zu
+und geht in Richtung
+Mirabella.
+Während das
+passiert,
+seht ihr eine Person weggehen und
+zwei dazukommen.
+Cosima, du hast vielleicht
+zehn Sekunden, um etwas zu sagen,
+bevor ihr erneut von anderen
+Personen angesprochen werde.
+Ja,
+die Sache
+ist, ich glaube, ich habe mir das jetzt
+anders, also nicht ich, aber
+Cosima hat sich das jetzt anders überlegt, weil es
+scheint, dass jemand doch sehr großes
+Interesse an einem Bild hat und
+wenn es dann bei jemanden hängt,
+der es nicht nur aus
+Sentimentalität hängen hat,
+sondern aus echtem
+Kunstinteresse, dann
+ist ihr das vielleicht sogar lieber.
+Okay.
+Möchtest du noch etwas zu Vitoria sagen,
+bevor ihr überfallen werdet?
+Ich würde glaube ich nur so was sagen
+wie Männer.
+Und mit den Augen rollen und zu der
+Tür nicken,
+wo mich
+Mirabellas Vater
+ja,
+ausgefragt hat.
+Ja,
+okay.
+Darüber sprechen wir dann ein anderes Mal.
+Und dann würde ich schon wieder
+mein Gastgebergesicht aufsetzen, wenn ich merke,
+dass jemand kommt.
+Ja, du siehst die beiden Personen
+links oben im Bild
+an euch herantreten.
+Der Mann
+stellt sich so etwas,
+so einen halben Schritt nach vorne
+und streckt
+seine Hand aus in deine Richtung,
+Vitoria.
+Ja, der kriegt meine Hand zurück.
+Okay.
+Mein Name ist
+Luca Sartore.
+Vitoria di Savoia,
+schätze ich.
+Ja, das ist mein Name.
+Willkommen.
+Sartore.
+Schön Sie zu sehen. Schön, dass Sie es geschafft haben.
+Und
+direkt bevor er etwas anderes sagen
+kann, kommt eine zweite Hand
+quasi neben ihm
+vorgeschnellt
+und möchte deine
+ergreifen und sehr
+aggressiv schüllen.
+Die der Frau.
+Azura Ginevra,
+mein Name. Hallo.
+Senorina
+Ginevra?
+Frage nach dem
+verheirateten Status.
+Sie antwortet
+Ne, Azura.
+Ja,
+okay.
+Alles klar.
+Ja,
+schön, dass du hier bist.
+Willkommen.
+Ich hoffe,
+ihr habt eine gute Zeit auf dieser Gala
+und findet vielleicht das eine oder andere
+Kunstzweck, das sich anspricht.
+Und eventuellerweise
+ein offenes Herz und einen offenen
+Geldbeutel für Dicken und Zweck.
+Luca Sartore,
+er
+greift wieder das Wort.
+Es ist eine
+wirklich
+eine
+große Herzensgüte, die sie hier
+zur Schau stellen.
+Jufrid
+Biomedica ist uns allen
+ein sehr großes Anliegen
+in dieser
+Stadt.
+Und ich sehe ja
+auch und
+du könntest
+mir einen Awareness-Wits-Roll machen
+und Cosima prinzipiell auch.
+Können wir vielleicht einführen,
+dass Dinge,
+die man an Leuten
+sieht, eher ein Inside-Check sind
+als ein Awareness-Check?
+Ja, es ist nichts, was du an ihm
+siehst.
+Cosima,
+was ist denn dein
+Hangar eigentlich?
+Wahrscheinlich auch eins.
+Zwei?
+Spannend.
+Das ist ja nur
+possible,
+weil ich habe ja trotzdem vier.
+Das hat mich nur erinnert.
+Ihr seht
+aber beide, dass er
+den Blick
+durch den Raum
+wirft und
+zumindest auf
+einigen Personen hängen
+bleibt kurz.
+Eine davon
+ist sicherlich
+Mirabella, eine zweite ist Aldo.
+Und es sind noch ein paar mehr,
+die, es ist nicht so,
+dass er ein generelles
+Rundumschauen macht, sondern es sind ein paar
+Leute, die ihm wichtig zu sein scheinen.
+Dass die Leute,
+die hierher gekommen sind,
+ebenfalls ein
+großes Interesse daran haben,
+Jufrida Biomedica
+wieder aufzubauen und
+erneut dafür zu sorgen, dass wir
+Marktführer sind und bleiben.
+Sind Sie ebenfalls Investor?
+Nein. Nein, das bin ich nicht.
+Wir sind Teil einer
+Gruppe,
+deren Ziel es ist,
+dass Turin
+möglichst
+wohlhabend bleibt.
+Spannend
+sind Sie
+von der Stadt?
+Ja, so könnte man es sagen.
+Dann
+heiße ich Sie natürlich extra Willkommen
+und bedienen Sie sich
+an unseren Buffet, an unseren
+Getränken.
+Falls Sie sonstige besondere Wünsche
+haben sollten, bin ich mir sicher,
+dass wir auch denen gerecht werden können.
+Hast du noch das Glas in der Hand?
+Ja.
+Er zeigt mit einem Finger da drauf.
+Können Sie das trinken?
+Natürlich.
+Spannend.
+Seht man nicht?
+Nein.
+Ja, aber auch für Sie
+haben wir was zu trinken, denn ich weiß,
+es steht nicht jeder auf Sekt. Manche Leute bevorzugen
+ihren Rotwein besonders tief rot.
+Du siehst ein sehr breites
+Lächeln.
+Und Azura
+drückt sich wieder ein wenig nach
+vorne. Wir
+sind Keynes-Kinder.
+Ich lasse mich in die Stirn
+und schütte den Kopf.
+Sie ist ja großartig.
+Ja,
+das nennt man Subtext, Darling.
+Vielen Dank.
+Nichtsdestotrotz, ihr seht diesen sehr
+großen Türsteher da hinten um die Ecke,
+sagt ihm, dass ich euch
+geschickt habe. Ich werde ihm euren Namen
+durchgeben und dann könnt ihr euch dort eine
+Stärkung abholen, wenn ihr das wünscht.
+Luca,
+lacht nicht unbedingt, aber du siehst
+in seinem Gesicht, dass er das
+kennt, dass das passiert.
+Entschuldigen Sie bitte
+meine Begleitung.
+Azura ist immer etwas
+offener
+als die meisten von uns.
+Ich bin
+einfach nur froh, dass
+ich die Frau von der Klatschpresse schon los
+geworden bin.
+Ja, wir
+haben gesehen, dass
+Ihre Auswahl an
+Gästen eine
+sehr bedacht ist.
+Das werden wir
+den beiden Prinzen
+natürlich zurückmelden.
+Sehr gut. Bitte haben Sie
+einen wunderbaren Abend.
+Ebenso. Und
+er geht weg und Azura bleibt stehen.
+Oh no.
+Ja.
+Azura,
+kann ich dir noch irgendwie helfen?
+Ja.
+Würdest du mir im Laufe des Abends noch irgendwann verraten wie?
+Ich...
+Ja.
+Ja, werde ich.
+Ich erwarte diesen Moment sehnsüchtig.
+Und dann drehe ich mich auf und gehe woanders hin.
+Sie steht
+in der Gegend rum, bis sie
+ihr Handy rausholt
+und anfängt Selfies zu machen.
+Okay.
+Ich folge
+Vitoria.
+Du möchtest da nicht mit Azura stehen bleiben?
+Ich möchte da nicht mit Azura stehen bleiben.
+Ich nicke und
+entferne mich.
+Wunderbar.
+Ja.
+Ihr seht, wie sie mitten
+wäre das Ganze hier ein Club,
+stände sie mitten auf der Tanzfläche und
+würde Selfies machen.
+War hier nicht was von wegen
+Fotoverbot?
+Ähm...
+Ja, es
+durfte nicht gefilmt werden.
+Wenn die anfangen TikToks
+zu drehen, dann...
+Das ist vorbei.
+Das
+scheint sie in diesem Moment nicht zu tun.
+Mirabella,
+du hast ein
+ausladendes Smalltalk
+Gespräch mit
+der Dame
+Ähm...
+Celestine gefüllt.
+Möchtest du versuchen
+davon wegzukommen?
+Möchtest du mit ihr
+über was anderes sprechen? Was ist der Plan?
+Also mein Plan ist eigentlich
+bei ihr zu bleiben, bis mein Vater irgendwann wieder auftaut
+und sich dann mit ihr beschäftigt,
+weil die beiden sind zusammengekommen. Deswegen.
+Verstehe.
+Ja, sie würde wahrscheinlich auch nach einer
+Zeit, also würde
+er wieder rauskommen.
+Und dann
+in eure Richtung kommen.
+Und
+du kannst mir mal in Zeit
+geben mit...
+Mit was ist die Frage?
+Mit
+Composure?
+Und du kannst da
+auch ruhig
+ein Würfel oder...
+Brauchst du nicht, du hast drei Erfolge.
+Du siehst eine...
+Dein Vater ist dir
+gegenüber nie besonders herzlich.
+Aber jetzt gerade
+scheint seine...
+Die Kälte, die von ihm ausgeht,
+größer zu sein als sonst.
+Und er stellt sich zu euch
+bei...
+Celestine.
+Da unsere...
+Unsere Pläne
+nicht gebilligt wurden,
+wäre ich bereit,
+diese Gala
+wieder zu verlassen, wenn das
+für dich kein Problem ist.
+Immerhin haben wir noch
+einiges zu tun für den Wiederaufbau.
+Und Celestine guckt dich an, Mirabella,
+als ob du das letzte Wort hättest.
+Ich schaue so ein bisschen
+zwischen den beiden hin und her.
+Ich bin wahrscheinlich auch ein bisschen
+überfordert davon, dass Celestine mich jetzt
+dabei fragen anschaut.
+Bitte, natürlich.
+Vater, wir müssten nochmal
+welchen es gibt.
+Neuigkeiten.
+Jetzt sprechen?
+Vielleicht nicht hier.
+Sonder?
+Wir telefonieren morgen Abend.
+Oder heute Abend noch, je nachdem, wie lange du wach bist.
+Und wie lange das hier noch geht.
+Ich werde wahrscheinlich
+nicht schlafen.
+Erneut.
+Du bist alt genug, um zu wissen,
+was du tust.
+Ein gekräuseltes Lächeln
+als Antwort.
+Und
+ja, was ist das
+Signal, was
+Mirabella
+zu Celestine senden möchte, in diesem Moment?
+Ja, ich würde mich dann natürlich nochmal
+ihr zum Wenden. Und dann
+hat mich gefreut, Celestine. Und ich reiche
+ihr nochmal die Hand.
+Sie nimmt deine Hand.
+Mich ebenfalls, Mirabella.
+Es war ein sehr schönes Gespräch. Ich hoffe,
+wir können das wiederholen.
+Bestimmt.
+Ich habe gerade meine Visitenkarten dabei.
+Ich habe die mit Sicherheit dabei.
+Ich gehe davon aus, dass ich die hier brauchen werde.
+Also ja, ich drücke hier alle meine Visitenkarten
+in die Hand.
+Sie schaut die an, hält die so gegen das Licht.
+Die ist echt, falls du das in Frage stellst.
+Nein, das war es nicht.
+Aber ich...
+War ein Witz.
+Das ist okay.
+Okay.
+Ich stecke die einfach ein.
+Da steht ja bestimmt auch deine
+Telefonnummer drauf.
+Vielleicht E-Mail.
+So können wir in Kontakt bleiben.
+Natürlich.
+Und du siehst,
+dass er...
+Ich weiß gar nicht. Du hast das gerade
+bei Cosima nicht gesehen.
+Aber erneut nimmt er
+den Arm
+von Celestine in seine Hand.
+Und schiebt sie
+Richtung Auske.
+Ja, ich...
+Es ist so diese
+Initialreaktion,
+der ich kurz vergesse, wo ich eigentlich bin.
+Was ich mir so kurz nicht schläfe.
+Und dann... Ach ja, stimmt.
+Öffentlichkeit und schaue wieder hoch und
+guck mich unbedingt schätze. Das ist der Moment, in dem
+ich habe seinen Namen gerade nicht auf dem Schirm.
+Aldo Sangari.
+Der kommt
+rum.
+Ich schaue gerade, ob es vielleicht irgendeine
+Möglichkeit gibt, die Anzeigen zu lassen.
+Ja, das geht.
+Ah.
+Easy.
+Einstellungen für alle machen, meine ich.
+Ja, ich kann die auch einzeln machen. Das ist jetzt nicht so
+das Problem.
+Dann habt ihr die auch vor...
+Da muss die aber woanders
+hin hier. Ah.
+Goddammit.
+Ah, Celestine geht ja gerade eh von daher.
+Celestine geht gerade eh, das stimmt.
+Das ist der falsche Name.
+Warum steht da der falsche Name?
+Steht da der Name meiner Stiefmutter.
+Das ist hier offensichtlich nicht.
+Warum steht das da?
+Hä?
+Oh, du hattest mal gesagt, dass du
+einen NPC hast mit dem gleichen Namen
+und den dann geändert hast. Ist das vielleicht deshalb
+aus irgendeinem Grund?
+Ja, aber die...
+Ah.
+Das ist hilarious, diese automatische
+Dorfendrehung.
+Ich kann sie nicht mehr auseinanderziehen.
+Wunderbar.
+Ähm.
+Aber ich habe sie ja
+anders genannt.
+Ich habe sie ja anders genannt.
+Ähm.
+Ach, Foundry.
+Ah.
+Ist das Token
+noch so heiß? Weil offiziell ist das hier ein Token.
+Ja, wahrscheinlich ist es das.
+So. Jetzt habt ihr.
+Und vielleicht
+pack ich die
+Huey noch irgendwie da so zwischen, damit ihr sie
+auch komplett seht.
+Celestine ist ja jetzt auch
+weg.
+Und dann habt ihr alle anderen
+dastehen.
+Äh, ja.
+Aldo Sangari
+kommt zu dir
+und streckt seine Hand aus,
+um deine
+zu schütteln.
+Äh, Aldo Sangari,
+mein Name.
+Mirabella Giuffrida, korrekt?
+Absolut korrekt. Und ich nehme
+seine Hand und schüttel die.
+Ich wollte mich
+nur kurz, ähm,
+naja,
+erkenntlich zeigen, dass sie
+auch hier sind und dass
+alle, die hier
+sind, ähm,
+dabei helfen, diese
+für Turin doch so wichtige
+Firma wieder neu aufzubauen nach
+dem Unglück.
+Ich bin auch sehr erfreut darüber,
+wie viele Leute hier sind.
+Bedenkend, wie
+wenig Vorlaufzeit das Ganze hatte,
+hab ich damit
+etwas weniger gerechnet, bin ich ehrlich.
+Aber umso schöner.
+Ich brauch einen Roll von dir.
+Mhm.
+Ich muss
+erst noch nachgucken, was das
+für ein Roll wäre.
+Ich suche da gerade jemanden
+Fähigkeiten, um mich anzuwenden.
+Das weißt du noch nicht.
+Was würdest du sagen,
+ist der
+prinzipielle
+Wurf für
+malkavianische Flüche.
+Okay, klingt gut.
+Ja, das ist vielleicht auch Airwitz, ne?
+Ich weiß nicht, ob du da mit Intelligenz
+in der Hand hast.
+Ob das das Stamm hierin erreicht,
+quasi.
+Das ist der beste Roll, den ich machen kann.
+Ja.
+Was ist denn deine Spezialisierung?
+Lass mich mal eben gucken.
+Ich glaub, das hilft mir hier nicht.
+Der Mann ist kein Buch.
+Vielleicht ist er wie ein offenes Buch.
+Korrekt.
+Du spürst
+tief in deinem Inneren,
+es ist wie das
+Knochen
+eines
+Tieres,
+das gerade
+nicht mag, was passiert.
+Ist das vergleichbar
+oder ist das nochmal anders?
+Bei Irene war das ein positives...
+Wenn ich mich recht entsinne?
+Nee, die Stimme hat mir gesagt, dass Irene gegen uns ist.
+Das war also auch negativ, aber...
+Schwierig.
+Du hast fünf Successes.
+Das ist...
+Ich sag mal so, bei Irene habe ich das
+ein bisschen so interpretiert,
+da ist jetzt ein Hund
+und da kommt gerade
+eine Person entgegen, die der Hund
+nicht cool findet und dann knurrt er
+halt mal kurz. Das hier scheint ja was anderes
+zu sein. Es ist auch Abmerkung,
+aber es scheint irgendwie anders zu sein.
+Wie du das gerade beschrieben hast.
+Genau. Ich kann dir das
+abstrakt weiter beschreiben.
+Ich weiß nicht, ob dir das hilft.
+Es ist das Gegenteil von dem,
+was bei Irene passiert ist,
+aber es ist die gleiche Emotion, die dahinter
+stehen.
+Wie gesagt, ich weiß nicht, ob es hilft.
+Möchtest du daraufhin irgendetwas
+tun oder deinem
+Inneren sagen?
+Ich kann dir quasi ein mentales
+Nichts von mir geben.
+Obwohl wir wissen, dass das wahrscheinlich nichts bringen wird.
+Mit den fünf Successes
+wird es zumindest dazu führen,
+dass du jetzt nicht
+großartig Kopfschmerzen bekommst.
+Das wäre nach außen wahrscheinlich auch ein bisschen ersichtlich,
+weil das ein kurzes
+Kopf zur Seite neigen wäre.
+Und offensichtlich
+mit den Gedanken für einen kurzen Moment woanders
+und dann wieder hier.
+Da lass mich doch mal irgendwas rollen.
+Let's see.
+Du siehst, dass du ein kurzes
+merkst, dass du ein kurzes Zucken hast, als dieses Geräusch in deinem Inneren
+geschieht. Es ist sowohl ein Geräusch, als auch eine haptische Empfindung. Also du
+spürst so ein leises Grummeln, wie wenn eben ein Tier growlt und du siehst, dass
+Aldo seinen Kopf deinem hinterher neigt.
+Signora, geht es Ihnen gut? Ja, durchaus. Migraine.
+Aber nicht so schlimm, nicht so wichtig. Entschuldigung. Natürlich, kein Problem.
+Vielleicht sollten sie sich ausruhen. Wir haben hier einige Zimmer, in denen sie
+sich vielleicht hinlegen können. Ich denke, dass gerade meine Anwesenheit hier sehr
+wichtig ist. Und dementsprechend bis später. Hast du gerade gesagt dementsprechend bis später?
+Achso. Nun, dann möchte ich sie aber zumindest nicht weiterhin stören. Ich hoffe, ich bin nicht der Grund für ihre Migräne.
+Sollten sie sich im Laufe des Abends noch besser fühlen? Ich bin nie einem Gespräch abgeneigt.
+Ich meine, wenn Sie noch Fragen haben, bitte.
+Fragen nicht. Nein, das ist er. Ich wollte Ihnen meine Dankbarkeit zum Ausdruck bringen für das, was Sie und alle hier und auch besonders natürlich die
+Signora di Savoia tun für die Stadt und uns alle.
+Immer schön, das zu hören. Und das ist der Moment, in dem mir wahrscheinlich selber auffällt, dass ich für sowas keine entsprechende Antwort parat habe.
+Ja, du bekommst einen Nicken zurück, eine leichte Verbeugung und du siehst, dass er sich entfernt und in Richtung eines der Gemälde geht.
+Und während dies passiert, passiert auf der anderen Seite etwas anderes. Und zwar, beim Eingang war es eher ein Tumult,
+der auch von allen erkannt und dementsprechend verstanden wurde. Das, was jetzt passiert, ist der Versuch, einen solchen Tumult zu vermeiden.
+Eine der Wachen kommt zu Vitoria und flüstert möglichst leise, sodass andere Leute um euch ihn nicht verstehen.
+Signora, wir haben da, glaube ich, ein Problem in dem Raum. Und du gehst los.
+Als diese Wache den Raum öffnet, siehst du, dass er sich möglichst breit vor diese Öffnung stellt, damit niemand hineinschauen kann.
+Du gehst rein, er dir hinterher und zieht die Tür zu. Und du siehst in dem Raum einige Menschen, die auf Stühlen sitzen, an Tischen oder an Fensterbänken lehnen.
+Alle, wie du weißt, sind bereit, von ihnen getrunken zu werden. Und du siehst eine Person, die auf dem Boden liegt.
+Und daneben steht jemand, den du bereits kennst, der dich nicht unbedingt vorgestellt hat, glaube ich. Aber dessen Namen du zumindest schon mal gehört hast.
+Und zwar ist das diese Dame hier, die Yui. Die schaut stark verwirrt und verängstigt von der Person auf dem Boden zu dir und wieder zurück.
+Ich wollte das nicht. Nur sonst hat es immer funktioniert. Und da würde ich gerne eine Pause machen.
+Was ist das hier für ein chaotischer Clusterfuck?
+Wir haben sehr viele Möglichkeiten, Blödsinn zu machen.
+Genau.
+Ja. Und diese läuft aus jeglichen Rudern.
+Das ist der Plan.
+Noch kurze Verständnisfrage. Ich stand ja noch bei Vitoria.
+Wenn du mitgehen wollen würdest, könntest du das tun. Wenn Vitoria da nichts gegen hat.
+Wenn Vitoria mich das lassen wollen würde, dann würde ich da folgen.
+Keine Geheimnisse im Zirkel. Nicht wahr?
+Keine Geheimnisse im Zirkel.
+Okay.
+Noch. Bis so bald.
+Bestimmt.
+Dann gehe ich mal Katzen füttern. Bis gleich.
+Ja würde ich sagen. Bis 45.
+Bis gleich.
+Bis gleich.
+Das war's für heute.
+Vielen Dank für's Zuschauen.
+Bis zum nächsten Mal.
+Tschüss.
+Tschüss.
+Das war's für heute.
+Bis zum nächsten Mal.
+Tschüss.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Hallo.
+Das war's für heute.
+Bis zum nächsten Mal.
+Tschüss.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das war's für heute.
+Bis zum nächsten Mal.
+Das hat ja mal vor 10 Minuten gedauert.
+Das ist ja anstrengend.
+Okay, ich habe hier einen Bären.
+Ich müsste noch Erdbeeren haben.
+Hinde.
+Stehe ich jetzt auf?
+Ich bin für real an dem Raum, der am weitesten entfernt von der Küche ist.
+Oh nein.
+Das hört sich so an, als hätte ich so ein riesiges Anwesen.
+Im Südflügel.
+Ja, das sage ich.
+Nee, nicht jetzt.
+Später.
+Okay.
+Haben wir eine Vitoria.
+Die konnte kein Blut sehen und ist umgefallen.
+Das wäre richtig blöd für ein Vampir.
+Oh man, das ist so eine gute Idee.
+Ich weiß nicht, ob es das ist.
+Es ist eine lustige Idee, aber es ist halt ein Charakterkonzept, das nicht wirklich viel weiß.
+Was?
+Ich meine, man kann langsam lernen, damit umzugehen.
+Das ist auf jeden Fall Charakterentwicklung vorprogrammiert.
+Da müsstest du halt wirklich so einen gerade frisch verwandelten Bären wählen.
+Ja, das auf jeden Fall.
+Wo ja nichts gegenspricht.
+Ja, next time.
+Wir haben keine Vitoria.
+Dann fangen wir nochmal bei Mirabella an.
+Mirabella, du hattest gerade ein kurzes Gespräch mit Aldo Zangari.
+Und jetzt, wo er weg ist, wird das knurren weniger.
+Ich versuche trotzdem meine mentale Stimme anzusprechen.
+Was war das gerade?
+Er ist zu gleich, zu ähnlich.
+Vom gleichen Clan?
+Er ist wie du.
+Er ist wie wir.
+Wie du.
+Warum reagieren wir sonst nicht so auf Leute vom gleichen Clan?
+Er ist anders, aber gleich.
+Vielleicht fängst du das nächste Mal mit der Information an?
+Stille.
+Ich nicke so einen natürlich.
+Nicken und dann...
+Gut, ihm jetzt in den Herzen laufen wäre ein bisschen awkward.
+Der andere Seite, wenn es irgendwer nachvollziehen kann, dann wohl eher...
+Meine Vitoria.
+Aber vielleicht rennst du auch noch hinterher?
+Ja, ich renne hinterher.
+Okay.
+Herr Zangari?
+Ja?
+Entschuldigung.
+Gerechten anahme ihn ist bewusst, dass ich nicht ganz ehrlich war, was das Migräne-Thema anging.
+Ich hatte es mir gedacht, aber ich wollte nicht weiterfragen.
+Ich hab das Gefühl, dass es etwas gibt, was uns verbindet.
+Das wäre mir neu.
+Ja, kam noch nicht vor.
+Ich denke, dass wir beide vielleicht nicht so alt sind, wie wir aussehen.
+Älter sind, als wir aussehen.
+Ich mag das auf jeden Fall zu treffen. Sie scheinen mir doch sehr jung geblieben, wenn ich das so sagen darf.
+Danke.
+Man kann mir die Überforderung unter dieses Suchen nach Fragen ansehen.
+Was wäre denn das?
+In der Hoffnung, dass du eine passive Überzeugungsarbeit leisten kannst.
+Offenbar kannst du das.
+Dann braucht er auch nicht würfeln, ob das läuft.
+Wir sollten was auch immer hier besprechen, nicht hier besprechen, glaube ich.
+Ja, durchaus.
+Wir könnten nach einer freien Seeparische, nach einer freien Seeparische,
+nach einer freien Seeparische, nach einer freien Seeparische,
+Wir könnten nach einer freien Seeparische, nach einer freien Seeparische schauen.
+Natürlich.
+Er schaut umher, sieht eine offene Tür an einer Seite und geht in die Richtung.
+Ich folge.
+Ihr kommt in diesem Seepari an.
+Es wird die Tür geschlossen und er stellt sich so weit wie möglich von der Seite des Zimmers weg mit der Tür.
+Und flüstert immer noch, obwohl...
+Ich würde übrigens an Vitoria übergeben, weil eigentlich war sie dran. Sie war nur nicht da, als wir weiter gemacht haben.
+Nee, ist schon gut. Mach schon.
+Ja, du siehst, dass er so weit wie möglich von der Tür weggeht und immer noch flüstert, obwohl er offensichtlich niemand mehr hier ist.
+Ich denke, wir wissen beide, was wir meinen und müssen es nicht aussprechen.
+Mir war nicht bewusst, dass die Besitzerin von Giuffrida Biomedica jemand ist wie ich.
+Mir war nicht bewusst, wie viele aus unserer Gesellschaft Interesse an meiner Firma haben.
+Nun, ich kann nur für mich selbst sprechen, aber ich bin mir sicher, dass ziemlich viele der Leute, die heute hier sind, von unserer Art sind.
+Das meine ich, ja.
+Immerhin heißt es in unserer Gesellschaft, dass Macht das Wichtigste ist und Geld ist natürlich eine Möglichkeit, an diese Macht zu gelangen.
+Ich denke, Sie haben mehr Möglichkeiten, als Sie vielleicht gerade wissen.
+Womöglich. Mein Tiger hat es versäumt, mir das ein oder andere beizubringen.
+Er nickt verständnisvoll. Als du das Wort sagst, reißt er auch so ein bisschen die Augen auf, aber er sagt nichts.
+Du merkst, er ist sehr vorsichtig.
+Ich gehe noch einen Schritt weiter und vermute, dass wir sogar Teil der gleichen Familie sind, auf unsere Gesellschaft bezogen.
+Ich merke, dass er auf dieses Sire so etwas sehr offensichtlich reagiert, deswegen bewusst andere Wortwahl.
+Er sucht nach einer Möglichkeit, das zu umschreiben.
+Ich drehe so einen Kreis mit meinem Finger neben meinem Kopf.
+In Sinne von, wir sind alle ein bisschen verrückt.
+Er schaut dich etwas unverständlich an.
+Meine Familie ist die der Rose. Ist das bei Ihnen genauso?
+Habe ich das jemals gehört?
+Ich glaube nicht, nein.
+Ich bin unsicher, ob ich das verstehe.
+Er blickt sich nochmal in dem leeren Raum um und flüstert dann, in der Hoffnung, dass wirklich nur du ihn hören kannst, so leise wie möglich.
+Toreador?
+Oh, äh, nein. Nein, nein, nein.
+Melkavian.
+Du hörst eine Stimme im Inneren. Lügner.
+Melkavian.
+Ich verstehe.
+Wieso waren Sie der Meinung, wir wären von der gleichen Familie?
+Was wissen Sie denn über meinen Clan?
+Nicht viel. Ihre Familie bleibt unter sich.
+Wir haben gewisse Fähigkeiten, sowas einzuschätzen. Und ich roll selber die Augen darüber, dass ich das so umschreibe.
+Was genau einzuschätzen?
+Wer zu unserer Familie gehört?
+Das ist mir neu.
+Ich dachte, das wäre nur möglich durch bestimmte Rituale des Blutes.
+Ich zucke mit den Schultern, leg die Hände so hinter dem Rücken und mach so einen Schritt nach vorne.
+Und meine Fähigkeiten sagen mir, dass wir uns ähnlicher sind, als es von außen den Anschein hat.
+Nein, nein, das... da müssen Ihre Fähigkeiten Ihnen einen Streich gespielt haben.
+Okay, ich wollte nur auf verzichten. Inside Track.
+Den kannst du gerne machen, ruhig mit zwei Bonuswürfeln.
+Inside Wits?
+Ja.
+Und zwei Bonuswürfel.
+Ha, der ist gar nicht mal so gut, bedenken die Würfeln.
+Ich probiere mal was.
+Okay.
+Roll mir nochmal ein Inside Wits.
+Okay.
+Ohne Bonuswürfel diesmal?
+Ohne Bonuswürfel diesmal, ja.
+Und der ist genauso gut.
+Das ist wundervoll.
+Der zweite war für deine innere Stimme.
+Und gemeinsam habt ihr genauso viele wie er.
+Deswegen... also deine Stimme hat es schon gesagt, du glaubst deiner Stimme, er lügt.
+Signor Sangari, gibt es einen stimmten Grund, warum Sie diesbezüglich nicht die Wahrheit sagen sollten?
+Du siehst, dass er... wie nennt man das... eschofiert ist?
+Signora Jofrida, also ich bitte Sie, wieso sollte ich lügen?
+Das frage ich Sie.
+Ich habe keinen Grund zu lügen und mir vorzuwerfen, ich würde lügen.
+Geziemt sich nicht.
+Das ist diese alte menschliche Angebote, die es läuft.
+Okay.
+Dann bitte ich um Entschuldigung dafür, dass ich Ihnen zu nahe getreten bin.
+Er nickt langsam, aber du siehst, dass er... dass das eine gewisse Schwelle übertreten hat.
+Er war vorher sehr offen und ehrlich dir gegenüber und das wird er wohl in der Zukunft nicht mehr so sein.
+Wie gesagt, Entschuldigung.
+Er nickt nochmal und geht in Richtung des Ausgangs.
+Ich verdrehe die Augen, wenn er mir den Rücken zugedreht hat.
+Das kannst du tun.
+Kommen wir nun zu Vitoria.
+Und zugegeben auch Cosima, die ist auch dabei.
+Und auch Cosima.
+Ich bin Cosima und ich bin auch dabei.
+Du bist auch dabei.
+Ihr steht vor einer kleinen Menschentraube.
+Eine Person, die offensichtlich am Boden liegt, sehr bleich im Gesicht und sich nicht bewegt.
+Und eine offenbar verzweifelte junge Frau namens Yui daneben,
+die hin und her schaut und beteuert, dass es sonst immer funktioniert hat.
+Was tut ihr?
+Erstmal alle in diesem Raum, Cloud-Memory.
+Okay.
+Also ich würde zuerst mich an Cosima wenden und sagen, guck du nach dem Mädchen und kümmer dich um...
+Ah, du bist weg.
+Du warst weg.
+Ich sagte, guck du nach dem Mädchen und klär die Situation.
+Halt sie wenn notwendig hier. Ich kümmere mich darum, dass sich niemand daran erinnert, was hier passiert ist.
+Wird gemacht.
+Und jetzt gehe ich eine ganze Menge Leute Cloud-Memoryen.
+Okay.
+Bitte alle in einer Reihe aufstellen.
+Machst du das nur bei den Menschen oder auch bei den Vampiren?
+Da sind Vampire noch andere?
+Das ist der Raum, wo die am besten sein sollten, wenn die was zu trinken möchten, ja.
+Ja, aber das heißt ja nicht, dass sie gerade alle was trinken.
+Da stimmt...
+Grad Massenversammlung.
+Es gibt aber sicherlich den einen oder anderen.
+Ja, wer ist denn das genau, oder muss ich jetzt... Aber Tarelis.
+Ähm...
+Das eine ist ein Alaric-Morland.
+Ah ja, den juckt er nicht.
+Oh no.
+Und das andere ist...
+Wollte Luka nicht auch hier hin?
+Luka wollte auch hier hin, der ist aber noch nicht hier, aber ich schätze, dass Mandana hier ist.
+Oh no.
+Das sind so die Schlimmsten, die hier sein könnten.
+Well.
+Valarine.
+Ich weiß nicht, ob es Alaric interessiert, aber die andere weiß ich nicht.
+Das ähm...
+Joah.
+Scheiße für sie.
+Ne?
+Ja.
+Nö, die Vampire-Blood Memory ich nicht, aber die Menschen schon.
+Okay.
+Dann musst du glaube ich auch nicht bewürfeln.
+Korrekt?
+Fragezeichen.
+Nein, muss ich nicht.
+Okay.
+Und natürlich ist das free, weil Cloud Memory OP ist.
+Ist doch nur so ein kleiner süßer Skill.
+Ein kleiner süßer Skill, den ihr schon so häufig verwendet habt, nicht nur in Turin.
+Habt ihr ihn zum ersten Mal.
+Wer hatte den denn in Berlin?
+Octavian.
+Alle anderen gefühlt.
+Alle anderen.
+Vitoria, du bist dabei, die in einer Reihe aufgestellten Menschen zu klauden.
+Als die Tür erneut aufgeht.
+Und der Security Guard reinkommt.
+Gott sei Dank.
+Okay.
+Signora di Savoia, da stehen zwei Leute, die hier rein wollen.
+Wir haben aber ihren Namen noch nicht bekommen.
+Luca Sartore und Azora Ginevra.
+Sagen Sie ihnen, wir kümmern uns gerade um eine Situation, wir sind gleich für...
+Natürlich.
+Er geht raus und...
+Privacy and role.
+Okay.
+Und zunächst passiert nichts.
+Du nimmst nacheinander die Erinnerungen der Leute.
+Und Cosima, du siehst Yui immer noch verwirrt, verängstigt.
+Etwas in sich zusammengesunken.
+Die Leute sind gesunken, neben dem Mann stehen, der da auf dem Boden liegt.
+Bewusstlos und regungslos offenbar.
+Möchtest du etwas tun?
+Ich würde erstmal fecken, ob sie denn noch lebt.
+Person auf dem Boden.
+Da müsste ich jetzt von dir...
+Medicine Intelligence.
+So gerne.
+Du schätzt, dass du sie mit deinem medizinischen Wissen wieder auf den Damm bekommst.
+Dann tue ich das.
+Ganz offensichtlich fehlt ihr eine Menge Blut.
+Und du siehst an der Seite des Halses eine noch nicht verschlossene Wunde.
+Und wenn du diese näher betrachtest, auch mit deinem Medicine Check, siehst du, dass die dort, wo normalerweise Zähne eindringen in das Fleisch, um die Möglichkeit zum Trinken zu ermöglichen,
+das sieht nicht aus wie punktuell eingedrungene Zähne.
+Das hat eher was von irgendetwas, das reißt.
+Also du siehst so, da sind zwar kleine Punkte auch, aber daneben noch mehr offenes Fleisch, als würdest du deine Zähne reinstecken und dann ziehen.
+Als wäre es ein Raubtier gewesen.
+Raubtier nicht.
+Dass so eine Wunde aufreißt.
+Ja, auf jeden Fall ist es wenig überlegt und wenig präzise.
+Und wahrscheinlich auch nicht die Art von Wunde, die mit einmal drüber lecken, wieder verheilt ist.
+Das kannst du probieren.
+Nee, würde ich jetzt nicht machen.
+Ich würde die, die jetzt nicht von Vitoria gerade cloud-memoried werden, dazu anhalten, mir verschiedene Tücher, Handtücher oder vielleicht sogar Verbandsmaterial zu besorgen.
+Speziell spreche ich auch Yui an, da sie nicht so scheint, als wäre ihr egal, wenn die Person stirbt.
+Ja, dann bräuchte ich von dir Persuasion Charisma, um Yui unter Kontrolle zu kriegen.
+Das wird eng.
+Du versuchst ihr gut zuzureden, aber diese Frau ist gerade in einem Ausnahmezustand und offensichtlich ist das hier zu viel für ihre schwachen Nerven in diesen Momenten.
+Okay, ich würde aufstehen, ich würde mich umgucken, sehe ich hier vielleicht in diesem Raum irgendwie so ein Notfall-Kit? Gibt es ja immer mal wieder das in so Räumen.
+Ich glaube nicht.
+Okay, dann würde ich tatsächlich einen Teil von meinem Saum unten von meinem Kleid abreißen.
+Okay, dafür brauchst du keine Probe zu machen, so stark bist du und das dann quasi um den Hals wickeln.
+Genau, ich würde das dann so ein bisschen an der Stelle ein paar mal falten, so damit das ein bisschen dicker ist an der Stelle der Wunde und dann so umlegen, dass es die natürlich nicht erwirkt, aber halt die Blutung einigermaßen stillt.
+Und wird die Person dann aufheben und Vitoria fragen wohin?
+Wird sie es schaffen?
+Sie schafft es, aber wir sollten sie hier erstmal rausbringen.
+Ich werde meinen Leuten sagen, sie sollen etwas bringen, womit wir sie abdecken und in ein anderes Siparee bringen können, das hier wird zu heikel.
+Auf jeden Fall, gibt hier keinen zweiten Ausgang?
+Nee, ich glaube nicht.
+Okay, können wir die anderen Leute vielleicht hinaus in ein anderes Siparee bringen?
+Das ist eine gute Idee, wir ändern einfach das Siparee zu einem anderen Ort.
+Gut, dann würde ich sie auf eins der Sofa oder so legen.
+Ja, dann würde ich einmal in die Runde, Chop Chop, wir ändern den Raum, einmal bitte mit.
+Chop Chop. Cosima, ich bräuchte noch einen Awareness-Witz.
+Um zu schauen, ob dir etwas auffällt in diesem Gerangel.
+Offenbar fällt dir das auf in diesem Gerangel.
+Du siehst, dass Yui mental auseinander bricht gerade und mit der Situation nicht klarkommt und du siehst, dass sie weint.
+Okay, ich würde Yui mit am Handgelenk nehmen und zu mir ziehen und erstmal aus diesem, ein bisschen an den Rand stellen und vielleicht auf einen Stuhl setzen.
+Und wenn du das tust und vielleicht auch in ihr Gesicht schaust und möglicherweise mit ihr sprichst, um sie zu beruhigen,
+fällt dir das noch mal auf, dass sie weint?
+Mit Wasser?
+Ja.
+Also mit keinem Blut als Trend?
+Ich weiß nicht, ob Cosima weiß, dass das normalerweise so wäre bei Vampiren, weil sie selber, glaube ich, nicht emotional genug ist, um zu weinen.
+Ich meine, wir haben Irene gesehen und das sah ja deutlich anders aus.
+Das stimmt, ja, das habt ihr.
+Ich könnte mir vorstellen, dass sie den Zusammenhang dann schon geschnallt hat.
+Ja, das glaube ich, ja.
+Yui, was ist passiert und was hat sonst immer funktioniert?
+Das mit dem Trinken hat funktioniert. Ich habe das gemacht wie immer.
+Ich habe da reingebissen und dann habe ich getrunken und ich konnte nicht aufhören.
+Wie alt bist du?
+Also wie lang bist du schon?
+Ich bin drei.
+Und das ist vorher so noch nie passiert?
+Nein, ich wurde auch häufig jemand anders dabei, aber eigentlich kann ich das jetzt.
+Mach dir keine Sorgen. Kommt durch. Du hast niemanden getötet.
+So was kann passieren, aber da muss man natürlich weiterhin dran arbeiten, dass das nicht noch mal passiert.
+Ja, natürlich.
+Wie ist die? Wie frage ich das am besten?
+Wenn du normalerweise trinkst, hinterlässt du ganz normale Punkturen?
+Ja.
+Ich glaube, dass dein Beast ein wenig die Kontrolle über dich gewonnen hat. Warst du sehr hungrig?
+Ich weiß nicht. Ich dachte eigentlich nicht, aber vielleicht war es das.
+Du kannst mir einen Inside-Check geben, wenn du möchtest.
+Inside. Such dir ein Social Attribut aus.
+Okay. Ich bin nur gut in Manipulation.
+Wenn du das durch Manipulation herausfinden möchtest, dann kannst du das nutzen.
+Das ist nicht so viel Sinn.
+Dann nimmst du einen Anruf.
+Wir nehmen Charisma. Ist das eh egal dann.
+Zwei?
+Zwei. Sie glaubt nicht, dass es das war.
+Okay.
+Du hast das Gefühl, dass du jemandem gegenüberstehst, der noch nicht besonders viel Ahnung von eurer Welt hat.
+Du hast ihr eine Erklärung gegeben, die sie jetzt erst mal so annimmt, obwohl sie nicht weiß, ob es das war und ob es das hätte sein können.
+Sie hat ein Problem. Du hast eine Erklärung. Sie nimmt die Erklärung.
+Okay. Ich würde sie da erst mal platzieren und im Zweifelsfall Erklärungen und das Soziale die anderen machen lassen.
+Mein Hauptaugenmerk liegt tatsächlich mehr auf der Person, die verletzt ist und im Ausbluten ist und würde da eben gucken, dass die Sache einigermaßen gehändelt ist.
+Okay.
+Währenddessen?
+Also regelmäßig nach dem Puls sehen. Gegebenenfalls irgendwie.
+Ärzte Dinge.
+Ärzte Dinge, was man halt so macht als Arzt.
+Ja.
+Mit den limitierten Möglichkeiten. Und was ich auch noch tun würde ist, ich würde mir im Raum eine Flasche Wasser rum.
+Ja, warum nicht?
+Dass die Menschen was trinken müssen?
+Ja.
+Cool. Dann würde ich mir eine Flasche Wasser nehmen und alles, was hier irgendwie an Blut noch so rumfliegt, quasi zu Wasser verwandeln, indem ich das Wasser durch meine Hand fließen lasse.
+Und das Wasser dazu wille, zum Blut zu fließen und das in Wasser zu neutralisieren.
+Was bist du, Jesus?
+Quasi.
+Ja, das kannst du auf jeden Fall machen.
+Du siehst, wenn du dich umschaust, dass zumindest Alaric und Mandana und vielleicht ja auch du und Vitoria so offenes Blut ist immer ein bisschen schwierig.
+Ja, genau deswegen.
+Genau. Und du merkst, dass sobald du das tust, die Anspannung, was das angeht, ein bisschen runtergeht und natürlich du dich um den Menschen kümmerst, so gut es geht.
+Währenddessen fängt Vitoria an, den gesamten Zug an Personen von einem Raum in einen anderen zu manövrieren.
+Wie würdest du das machen, Vitoria, damit das möglichst entweder wenig auffällt oder du das so maskieren kannst, dass das nicht auffällt?
+Vitoria, wahrscheinlich würde ich ein paar von meinen Leuten, ein paar von den Tischen einfach auch rübertragen.
+Also so, dass es aussieht, als würde ein Mobiliar von A nach B rüber geschleppt werden, auf denen dann so Decken liegen und auf einem dieser Tische liegt die Frau und da ist eine Decke drauf.
+Okay.
+Ich dachte, wir bringen nur die Leute.
+Ja, wir bringen nur die Leute weg.
+Dann tragen die Leute die Tische rüber.
+Jeder schnappt sich ein Tisch.
+Jeder nur einen Tisch.
+An jeder Ecke einer.
+Das können wir natürlich machen.
+Arbeit, Sicherheit.
+Ja.
+Ich frage es.
+Was wäre da der Wurf für?
+Das ist ja wohl das härteste Sub-Defuge aller Zeiten.
+Wohl eher das härteste Leadership der Zeiten.
+Hallo?
+Oder das?
+Ich glaube auch Leadership.
+Jo, wir schaffen das.
+Leadership Charisma.
+Okay.
+Das muss aber, glaube ich, da muss ich doch nicht.
+Das reicht für die Menschen auf dieser Gala.
+Ja, weißt was?
+Ich habe da noch so viel offen.
+Wir machen da noch mal einen Willpower-Roll.
+Darf ich denn?
+Ist das erlaubt?
+Darf man noch?
+Darf man Willpower an in this economy?
+Ich denke.
+Ich hoffe.
+Rechtsklick Willpower Reroll.
+I'm trying.
+Okay.
+Fünf.
+Fünf ist gut.
+Fünf ist super.
+Damit wahrscheinlich ...
+Also, das komplett im Geheimen zu tun wird nicht funktionieren.
+Aber du schaffst es so aussehen zu lassen, dass es einfach ein ...
+In dem Raum ist irgendwas passiert.
+Irgendwie wird es schon einen Grund geben,
+warum die Leute jetzt von A nach B müssen.
+Und du siehst, dass die Menschentrauben sich nach dem ersten erschreckenden Blick
+in eure Richtung wieder abwenden und das so ein ...
+Okay, es ist jetzt ...
+Der Etikette nach würde man versuchen, das nicht zu kommentieren.
+Und da nicht hinzuschauen, sondern da werden Sachen getan,
+da werden Dinge bewegt und geschoben und was auch immer.
+Und wir versuchen gleichzeitig möglichst einfach weiterzumachen, wie es eben geht.
+Das funktioniert sehr gut.
+Und du hast irgendwann Personen und vielleicht auch Tische und andere Dinge
+von A nach B in einen anderen Raum gebracht.
+Die Security natürlich eingewiesen, wo sie jetzt stehen sollen und et cetera.
+Und du kommst vielleicht wieder in den Raum, außer du möchtest draußen bleiben.
+Ich würde mich erstmal um Asura und ...
+Wie es andere lassen ...
+Luca kümmern, die ja eben gerade keinen Einlass bekommen haben.
+Und denen verkünden, dass im letzten Raum es ein bisschen ein paar Ungereimtheiten gab.
+Aber sie jetzt natürlich haben können.
+Und dann sage ich der Wache natürlich direkt vor Ort, dass die beiden rein dürfen.
+Okay. Du siehst, dass Luca das annimmt.
+Und dir auch ein zufriedenes und respektvollen, also einen Nicken gibt.
+Im Sinne von, das hast du gut gemanagt hier.
+Und Asura bleibt bei dir stehen.
+Ist dir eingefallen, wie ich dir helfen konnte?
+Noch nicht ganz, aber ich habe was für dich.
+Du hast was für mich?
+Ja.
+Deswegen bin ich überhaupt nicht mehr gekommen.
+Okay, was hast du denn für mich?
+Das würde ich, glaube ich, gerne lieber woanders besprechen.
+Und sie schaut sich in diesem Raum mit sehr vielen Leuten um.
+Okay.
+Ich winke sie mit in ein Separee.
+Kannst du mir den Rest des Schlosses zeigen?
+Ich wollte schon immer mal ein Schloss sehen.
+Ich kann dich sicherlich durch ein paar öffentlich zugängliche Teile bringen.
+Aber ich habe selbst nicht Zugriff auf alles.
+Zieh zurück mit den Schultern.
+Okay, komm mit.
+Und sie dackelt dir hinterher.
+Dann würde ich sagen, während das passiert, Cosima, du bist immer noch dabei, der Person zu helfen.
+Du?
+Das ist jetzt wahrscheinlich auch eine abendfüllende Beschäftigung.
+Ich würde aber Yui auch nicht aus den Augen lassen, wenn ich sie nicht sehe.
+Dann wären wir wieder kurz bei Mirabella.
+Was ist denn bei dir der Plan?
+Auch aus dem Separee raus.
+Ein bisschen irritiert von der Situation, weiß ich mir nicht.
+Ich bin ein bisschen verletzt.
+Ich bin ein bisschen verletzt.
+Ich bin ein bisschen verletzt.
+Ich bin ein bisschen verletzt.
+Ein bisschen irritiert von der Situation, weiß ich mir nicht.
+Erschließt, warum man...
+Also warum all diesbezüglich hätte lügen sollen.
+Was dazu führt, dass ich anfange, meiner Stimme ein bisschen zu misstrauen, damit du einfach so ein bisschen Blat bekommst von meiner Gedankenwelt gerade.
+Und dann ist die Frage, kriege ich dieses Tisch durch die Gegend bewegen mit?
+Ich denke, das wird sich lang genug hinziehen.
+Schau da rüber, leg den Kopf so leicht schief.
+Und der Gedankengang ist, das würde nicht auf einer Gala passieren, die Vitoria veranstaltet.
+Ohne dass irgendwas Schwerwiegenderes passiert ist.
+Ich glaube, so gut kann ich Vitoria schon einschätzen.
+Ich denke.
+Und macht dann auch...
+Ich denke, würde dann auch mal...
+Zumindest kurz nachschauen, was da los ist.
+Sehe ich Vitoria denn, oder läuft die quasi vorweg?
+Und ist dementsprechend irgendwo zwischenführend verschwunden?
+Oder schickt die quasi einfach so Leute von der LHB?
+Was tut Vitoria gerade genau?
+Vitoria führt gerade Azura Richtung...
+Achja, stimmt. Vitoria ist out of sight.
+Ja.
+Dann schaue ich mal ganz neugierig in das Separee, vor aus dem hier Dinge rausgetragen werden.
+Und siehst...
+Wobei...
+Wahrscheinlich würdest du von...
+Der Security zumindest erstmal...
+Also da würde sich ein Security-Mann zwischen dir und der Tür aufbauen, bevor du da rein kannst.
+Mirabella, Géfrida, ich...
+Denke, ich darf da hin.
+Und schaue so kurz an ihr vorbei und dann wieder zu ihm hoch.
+Ich habe gerade die Anweisungen von der Veranstalterin bekommen,
+dass in diesen Raum niemand mehr rein soll, dass wohl irgendwas passiert.
+Wenn sie in den Raum wollten, gehen sie bitte in den da hinten.
+Da wird jetzt alles neu aufgebaut.
+Hör ich das durch die Tür?
+Ich denke. Also die Tür ist halb offen, da werden ja Tische hin und her getragen.
+Okay, dann würde ich zur Tür gehen und sagen, sie ist okay.
+Sie kann helfen.
+Dann würde er dich eigentlich reinlassen, ja.
+Wenn jemand von innen das sagt, dann ist das wohl okay.
+Ich würde auch die Tür immer nur so ganz leicht aufmachen,
+sodass es halt auch weiterhin niemand so wirklich sehen kann, was da drin abgeht.
+Mirabella, du kommst rein und siehst das Chaos vor dir.
+Vielleicht könntest du dich um Yui kümmern und ich zeige auf Yui,
+während ich mich um das Opfer kümmere.
+Wenn du das so formulierst, macht es wahrscheinlich Klick und ich kriege so eine grobe Vermutung, was passiert ist.
+Ich vermute, Yui schaut zu der Person, die sie gebissen hat?
+Yui schaut nirgendwo hin.
+Die mag gerade nicht.
+Jetzt tut es mir ein bisschen leid, dass ich das letzte Mal nicht mit ihr gesprochen habe.
+Das ist Vampire.
+Dann stelle ich mich zumindest so in ihr Sicht.
+Hi.
+Hallo?
+Bella und ich breche die Hand. Du bist Yui, richtig?
+Ja.
+Ich würde fragen, ob alles in Ordnung ist, aber das glaube ich, kann ich mir sparen.
+Und ich lächle so leicht.
+Sie nickt.
+Magst du mir verraten, was passiert ist?
+Ich wollte einfach nur trinken und normalerweise geht das immer, aber diesmal ging das irgendwie nicht.
+Ich weiß nicht, warum.
+Hast du eine Augenbraue?
+Okay, war denn irgendwas anders als normalerweise?
+Ich habe einfach nicht mehr aufgehört.
+Das Blut war sehr lecker und das ist es nicht so häufig und ich habe nicht dran gedacht.
+Und dann ist das passiert.
+So was kann vorkommen. Sollte es natürlich nicht, aber kann passieren.
+Es wird sicher bei den meisten von uns schon mal passiert.
+Ich würde sie zumindest so ein bisschen von Cosima weg, aber Cosima, die in der Nähe ist, würde ich davon weggeiten.
+Das hat besser Geschmack als normalerweise?
+Irgendwie, ich bekomme häufig nur das von...
+Und du merkst, dass da irgendwas ist, was sie nicht sagen möchte und sie verstummt.
+Ist schon okay, du musst das nicht sagen, wenn du das nicht sagen möchtest.
+Sieht sie doch verheult aus, also wahrscheinlich ja, ne?
+Ja. Und auch du siehst Wasser.
+Ja, wahrscheinlich schon.
+Dann greife ich eine Serviette und reiche die Sonne, dann wäre das so der Moment, wo ich das auch so wahrscheinlich realisiere.
+Ist mir irgendeine Erklärung dafür bekannt?
+Die einzige Erklärung wäre, sie ist ein Mensch.
+Was sie offensichtlich nicht ist.
+Ja, wie gesagt, ich reiche die Serviette.
+Ist das normal? Und ich gehe sie mit meinem Daumen quasi so unter meiner Wange, also unter meiner eigenen Wange so nach, quasi um auf diese Tränen irgendwie zu versuchen hinzuweisen,
+dass sie das versteht.
+Sie fasst sich selber ins Gesicht, merkt das, dreht sich von dir weg und versucht es möglichst hektisch, die Tränen zu entfernen.
+Tut mir leid, tut mir leid.
+Das muss es nicht, alles in Ordnung.
+Das ist nicht sehr üblich, sag ich mal.
+Sie hat keine Antwort darauf.
+Ich schaue zu Cosima.
+Wenn sie mich gerade nicht anschaut, weil Yui hat sich von mir weggedreht und wenn Cosima gerade nicht in meine Richtung schaut, dann knippe ich einmal so kurz, um die Aufmerksamkeit zu bekommen, ohne was sagen zu müssen.
+Ich gucke zu dir.
+Und ich zeige so mit dem Finger auf Yui und deute dann quasi so das mit den Tränen an.
+Und dann so ein fragende Blick und so ein Schulterzucken in der Hoffnung, dass du irgendeine Erklärung dafür hast.
+Ich habe dasselbe Schulterzucken, ich habe mich aber damit auch einfach noch nicht so wirklich befasst.
+Was genau meinst du?
+Du merkst offensichtlich, dass ich dich da mal reden will.
+Deswegen habe ich das mit dem Handzeichen gemacht.
+Ich weiß nicht, würde Cosima das überhaupt verstehen?
+Das ist die Frage.
+Also ich glaube, sie würde schon auch dann einfach fragen, was?
+Ich bin sofort wieder bei Yui und lege einmal so kurz mal auf die Schulter und gehe dann Richtung Cosima.
+Wohl wissend, dass sie wahrscheinlich auch recht gutes Gehör hat.
+Ich finde es sehr, sehr schwierig, das hinzubekommen.
+Und sie sagt dann, weißt du noch, Irene vorhin?
+Und deute dann quasi jetzt noch mal Tränen an, indem ich quasi mit meinem Finger einfach vom Auge aus die Wange runterfahre.
+Ja natürlich.
+Und dann zeige ich jetzt so quasi über meine Schulter auf Yui in der Hoffnung, dass Yui das nicht sieht.
+Das ist wirklich quasi, ich zeige mit meinem rechten Zeigefinger über meine linke Schulter, dass mein Körper quasi bürgt, dass ich diesen Zeige-Move mache.
+Aber in der ganzen Hektik ist mir das gar nicht so bewusst gewesen.
+Ungewöhnlich.
+Habe ich eine Ahnung, was das sein könnte?
+Gebe mir Okult-Wits oder Okult-Intelligence.
+Muss toll sein, Sire zu haben, die einem Dinge erzählen.
+Na?
+For real.
+Du kannst meinem halt nicht mal übel nehmen. Der ist einfach nur ein Dooly.
+Ist einfach nur fertig.
+Ich glaube, ich habe auch noch ein bisschen Willpower übrig. Ich rerolle noch zwei.
+Okay.
+Damn.
+Mit vier Erfolgen würde ich dir das mal geben, besonders weil du dich ja auch mit dem Lebenssaft des Ganzen beschäftigst.
+Und Irene hat sicherlich mal angedeutet, dass es welche eure Art gibt, die nicht ganz eure Art sind.
+Wesen, die immer noch im Sonnenlicht laufen können, die essen und trinken können und die auch die vampirische Seite des Ganzen nicht ganz hinkriegen.
+Sogenannte Thinblads.
+Ich habe davon gehört, es gibt welche von uns, die nicht so sehr wie wir sind.
+Aha.
+Also deren Vitae dünner ist.
+Reicht mir das als Erklärung, um das jetzt auch einigermaßen zu verstehen, oder?
+Das musst du mir sagen.
+Dann würde ich sagen, ja. War mir nicht bewusst, dass es das gibt, aber spezifisch mit dem Vitae dünner.
+Das wird dir unangenehm sein.
+Ich habe gehört, es wird sehr auf diese Art hinabgesehen.
+Wenn du das sagst, siehst du, dass ich meine Augen so kurz schließe und man sieht die Abneigung gegenüber dem, was du gerade gesagt hast und ich nick dann nur und bin. Alles klar.
+Ich nick dir zu.
+Und dann back to you.
+Also nochmal, wie gesagt, so was kann durchaus mal passieren.
+Ich interpretiere richtig, dass das noch nicht passiert ist.
+Noch nie.
+Bin ich in Schwierigkeiten?
+Von meiner Seite aus nein.
+Ich bin da auch mit Sicherheit für Cosima.
+Macht dir keine Gedanken, denke das sollte kein Problem sein.
+Natürlich sollte das nicht nochmal vorkommen.
+Die nickt sehr stark.
+Hast du denn jemanden, der sich um dich kümmert?
+Mein Zirkel.
+Ich bin halt alleine hier, die gehen nicht so häufig auf so Sachen.
+Soll ich meine Vaterin irgendwo hinbringen?
+Nee, darf ich gehen?
+Ich schaue ein bisschen fragen.
+Wird das Vitoria entscheiden lassen?
+Ich muss mich kurz telefonieren.
+Und dann verlasse ich den Raum und bete, dass Vitoria an ihr Handy geht.
+Tut sie das?
+Vitoria müde, wird Vitoria schlafen.
+Wir können doch euch hier aufhören.
+Warte, ich habe mich gerade auf den Kopfhörer gesetzt und höre nichts mehr.
+Das nicht so gut.
+Ich denke schon, dass sie ins Telefon geht.
+Vitoria?
+Bezüglich des kleinen Zwischenfalls?
+Ist das Mädchen überm Berg?
+Ja, hat Cosima das gesagt.
+Ich denke, Cosima beschäftigt sich damit wahrscheinlich schon.
+Gut, solange niemand gestorben ist, ist ja kein Gesetz gebrochen worden.
+Was ist mit Yui? Darf sie gehen?
+Nun, sie ist gesehen worden.
+Das sollte ihr bewusst sein.
+Wenn es ihr ein Anliegen ist, dann würde ich empfehlen,
+selbst ihre Version kund zu tun, bevor es jemand anders so formulieren könnte,
+als wäre das Mädchen gestorben.
+Gebe ich so weiter.
+Aber meinetwegen kann sie gehen.
+Kund tun gegenüber dem Concile? Ich sage das bewusst ein bisschen leiser.
+Ich denke, dass das Concile davon erfahren wird.
+Besser, sie macht ihren eigenen Case und ruft Leute, die vielleicht für sie bürgen können.
+Vielleicht würde Cosima sich dafür verantworten,
+als dass jemand sie anklagt, der es nicht so gut mit ihr meint.
+Notiert, danke dir.
+Ja, kein Problem.
+Sie hat aufgelegt.
+Ich schaue auf mein Handy.
+Das sind ja auch Dinge, die ich selber in der Gesellschaft lerne.
+Fuck. Und gehe wieder rein.
+Es wäre vielleicht ganz sinnvoll, dass du das hier selbst an Leute in höheren Positionen heranträgst,
+bevor es irgendjemand anderes tut.
+Bevor wir das machen, bist du überhaupt Teil dieser Seite?
+Ich habe gehört, ohne Wertung, dass Dünnblütige eher selten in die Kammeria aufgenommen werden.
+Also das sagst du so offen. Zuckt sie ein bisschen zurück.
+Alles okay.
+Wie gesagt, ohne Wertung.
+Alice hat gesagt, ich soll das niemandem sagen und niemand sollte das herausfinden.
+Deine Tränen haben dich verraten. Tut mir leid, wir sagen das nicht weiter.
+Nicht wahr?
+Danke.
+Nicke, alles das nicht wahr kommt. Natürlich nicht.
+Aber du bist Teil der Kammeria?
+Mhm.
+Okay, gut.
+Wie gesagt, das Beste ist, wenn du das selber an das Konzil heranträgst, bevor es irgendjemand anderes tut.
+Wenn du jemanden brauchst, der für dich aussagt, schau so rüber zu Cosima.
+So ein bisschen mit den Augen, aber nicke dann. Natürlich.
+Ist ja niemand gestorben.
+Uns allen ist schon mal ein Ausrutscher passiert. Ich denke, das kann jeder verstehen.
+Und das erste Mal am heutigen Abend seht ihr ein leichtes Lächeln auf den Lippen.
+Ich nehm eine von meinen Visitenkarten. Hab ich was zu schreiben dabei?
+Eine von meinen Visitenkarten raus und schreib auf die Rückseite meine private Nummer.
+Die hier, wenn irgendwas sein sollte.
+Okay.
+Danke.
+Natürlich.
+Und wenn du möchtest, darfst du jetzt gehen.
+Sie nickt noch ein paar Mal schnell und ist dann auch sehr schnell aus der Tür heraus.
+Und geht.
+Und jetzt würde ich prinzipiell noch gerne das mit der Vitoria abfrühstücken, wenn sie dann noch wach ist.
+Wir können das auch nächstes Mal machen. Das ist voll okay.
+Wir machen das irgendwie morgen oder so zu zweit.
+Das ist schon okay.
+Das ist ja nur zehn Minuten, die wir jetzt weniger gemacht haben, als wir eigentlich machen.
+Schlaf gut, Leyla.
+Genau, einmal das und dann ist relativ sicher, dass nächstes Mal nicht nur Gala stattfindet, sondern ihr wieder auf freiem Fuß seid.
+Also überlegt euch, was eure Charaktere machen wollen.
+Ja.
+Okay.
+Dann würde ich das hier beenden. Vielen Dank für die Session.
+War wieder krass. Tschüss Lüle, schlaf schön.
+Und dann weg.
+Meine Güte.
+Die war fertig.
+Die war fertig.
+Möchtet ihr noch favorite Moments einfach drüber sprechen?
+Ja, die ganze Session.
+Das ist voll süß.
+Ich habe sehr geliebt, wie Vitoria meinen Vater zusammengefaltet hat.
+Das war wundervoll.
+Das glaube ich, das in Character und out of Character, das sehr angenehm war.
+Und ich habe bei dem Gespräch zwischen Cozy und meinem Vater sehr hart geflucht. Die ganze Zeit, innerlich.
+Ja, also dieser Ficker einfach.
+Nun, auch solche Leute muss es in Vampire geben.
+Ich habe ihn gebaut.
+Du hast ihn gebaut, ich muss ihn spielen.
+Das hast du sehr gut gemacht.
+Das ist nett.
+Ich habe ihn gehasst in dem Moment.
+Ja, wundervoll.
+Solange das nicht überschwappt.
+Nein, nein, niemals.
+Ich kann das ja dann doch trennen, was du bist und du spielst.
+Das ist nett.
+Ich habe ja von Character Bleed gehört.
+Kann ja sein, dass das auch so passiert.
+Hoffentlich.
+Also ich traue euch das ja auch allen zu, das auseinanderzuhalten.
+Ja, auf jeden Fall.
+Ja, ich finde das auch immer alles gut.
+Ich finde das spannend, wie lange ich so eine Gala ziehen kann.
+Aber da passiert ja auch viel. Ich meine, das ist absolut logisch.
+Ja, weil ich halt viel passieren lasse.
+Ich hätte das ja nicht alles da reinpacken müssen.
+Aber es ist so selten, dass ihr alle auf einem Platz seid und man Dinge tun kann.
+Und es gibt einen Grund, für die anderen Mapiere da zu sein.
+Und so.
+Ja.
+Ja Mensch, find Platz.
+Find Platz.
+Habt ihr die auch gesehen?
+Endlich.
+Mit dir gesprochen.
+Es ist super funny, wie unterschiedlich sie bei dieser Jubiläumsfeier gewirkt hat im Vergleich zu gerade in diesem Raum.
+Ja.
+Voll.
+Bei der Jubiläumsfeier war ich so, das ist wahrscheinlich auch so eine arrogante Bitch.
+Jetzt bin ich so, oh damn.
+Jetzt tut sie mir leid.
+Es kommt auf den Kontext an.
+Und ihr kanntet sie ja noch nicht und wisst eigentlich immer noch nicht ganz genau, woher sie kommt und wer sie ist.
+Das ist richtig.
+Bin unsicher bezüglich Aldo.
+Mann.
+Das ist der Plan gewesen.
+Dass ich dem glaube oder meiner Stimme glaube.
+And I hate it.
+Well.
+Well.
+Es ist almost.
+Als wollte ich das genauso erreichen.
+Ja, ja.
+Nee, war gut.
+War gut.
+Großartig, Karoline.
+Das ist voll nett.
+Ich habe prinzipiell auch.
+Das ist sehr viel Spaß.
+Das ist gut.
+Genau das soll es tun.
+Und.
+Ich habe jetzt von allen, bis auf Nadine auch alles, was mit Kohl zu tun hat.
+Nadine war offensichtlich krank, hat sie geschrieben.
+Und.
+Gibt mir das aber die nächsten zwei, drei Tage.
+Aber wir haben ja eh noch bis.
+Wofür steht eigentlich Edel?
+Edel.
+Kult Edel.
+Ach so.
+Für den Ziel.
+Echoes der Leere.
+Kult hat immer so schön positive Titel.
+Also das kann sich auch noch ändern, weil das war der Ziel von dem Ding, was ich eigentlich vorhatte.
+Ne?
+Ja, wie das beim letzten Mal auch so war.
+Wahrscheinlich nicht mehr das.
+Nee, letztes Mal war der Ziel nämlich auch Echoes der Leere.
+Wurde dann Ordo Orbis Dei, nachdem ich das umgeschrieben hatte.
+Ich musste es einfach nur unterteilen.
+Haben wir jetzt einen Zeitalter, in dem das spielt?
+Moderne.
+Ok, dann passt.
+Ich habe ewig nach einem Bild gesucht.
+Ich habe jetzt eins, aber es ist Leinen leider nur.
+Das sollte kein Problem sein, hoffentlich.
+Ja, das war auch so schön.
+Mein Charakterkonzept hätte in einer anderen Zeit kaum funktioniert.
+Ja.
+Very true, very true.
+Dann würde ich hier mal eben...
+Muss ich euch aus dem Foundry rausschmeißen?
+Das, ok.
+Nein.
+Möchtest du das dann noch irgendwas tun?
+Nö.
+Ok.
+Genau das.
+Und dann kann ich dich da direkt einbinden.
+Ich liebe dieses Overlay-Bild von Kulta im Hintergrund, ne?
+Bei dem Einlogging-Screen.
+Ja.
+Ich laufe mich jetzt ganz frech hier ein.
+Ich will es auch sehen.
+Das ist derselbe.
+Ja, das ist derselbe.
+Der Link ist derselbe, ja.
+Oh, das war cool.
+Das legt mich, glaub ich, noch nicht zu meinem Kerberg, ne?
+Das legt mich da.
+Warum?
+Soll die Jule wissen, wie ich heiße.
+Das ist ok.
+Ok.
+Da, jetzt hast du auch dein Bild drin, Jule.
+Juhu.
+Und damit haben wir das schon wieder.
+Nice.
+Ich glaube, das ist die...
+Ah, hier ist die schwarze Madonna.
+Die immer auf diesen Sachen drauf ist.
+Ja, das ist auch eine...
+Die schwarze Madonna ist ein vorgeschriebenes Abenteuer.
+Ich glaube, ich habe es letztes Mal schon gesagt, aber es gibt in Hand eine Location namens Kapelle der schwarzen Madonna.
+Ah.
+Das ist auch das Symbol?
+Müsste ich mal gucken.
+Müsste ich mal genau auf den Compound umschauen, ne?
+True.
+Weiß ich nicht, ein Chapel of the Dona Noire.
+Hm.
+Hm.
+Ja, nice, ich bin sehr gespannt.
+Ich auch.
+Letztes Mal war sehr abgefuckt.
+Ja.
+Gucken, ob wir das noch mal so hinkriegen.
+Ich hoffe, mein Charakter ist abgefuckt genug.
+Nein.
+Im Zweifelsfall wird er abgefuckt.
+Dann ist gut.
+Das sowieso.
+Ich glaube...
+Ja, also generell sind die ganzen Charaktere...
+Abgefuckt.
+Ja, abgefuckt, aber auch reich an Möglichkeiten und Informationen.
+Mhm.
+So dass ich mal, also ich peile immer noch vier Sessions an, aber das kann auch gut fünf oder sechs oder...
+Ja.
+Mal gucken werden.
+Weil noch eine andere Person, also das vorherige war halt mit drei Spielern, die alle viel gemacht haben mit ihren Charakteren und das jetzt ist mit vieren und deswegen...
+Mhm.
+...will es wahrscheinlich dann doch ein bisschen länger dauern.
+Haben wir eigentlich Session 0 zum Kennenlernen?
+Ich meine, ich kenne alle, ich brauch die nicht, aber...
+Hm, nee.
+Okay, einfach rein.
+Einfach rein.
+Also, Jule macht das ja sowieso.
+Ich habe das Gefühl, du...
+Ich weiß gar nicht, mit wie vielen Leuten du schon Pen & Paper gespielt hast.
+Sehr viele in verschiedenen Gefühlen.
+Viele waren das gar nicht.
+Aber ja, schon.
+Ist das so?
+Also allein, was auf Max YouTube, auf Max Twitch passiert ist, ja.
+Ja, aber es sind häufig dieselben Leute.
+Ja, aber es sind häufig dieselben Leute.
+Es kommt mal eine neue Person dazu.
+Am Anfang, als ich in die Gruppen reinkam, da war es natürlich viel auf einmal, aber jetzt so...
+Das ist dieser...
+Na du, diesmal sind es ja nur zwei neue.
+Ja, ich denke.
